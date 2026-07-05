@@ -546,6 +546,7 @@ body.ttrss_main #popup-backdrop {
   display: none;
 }
 .pub-pic.pub-70250.material-icons,
+.icon-syndicate.material-icons,
 span.feed_title {
     display: none;
   }
