@@ -1211,8 +1211,8 @@ body.ttrss_main #toolbar-headlines i.icon-syndicate {
   border-radius: 4px;
 }
 body.ttrss_main #toolbar-headlines #feed_current_unread {
-  margin-left: 8px;
-  font-weight: bold;
+  /*margin-left: 8px;
+  font-weight: bold; */
   text-align: center;
   border: 1px solid #cd8b31;
   color: white;
