@@ -551,6 +551,7 @@ span.feed_title {
   }
 @media (max-width: 768px) {
   .pub-pic.pub-70250.material-icons,
+  .icon-syndicate.material-icons,
   span.updated,
   span.feed_title,
   .material-icons.icon-score {
