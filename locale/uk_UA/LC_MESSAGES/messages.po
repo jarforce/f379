@@ -139,8 +139,8 @@ msgid "Recent entries found in event log."
 msgstr "Знайдено свіжі записи в журналі подій."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Доступні оновлення Tiny Tiny RSS ."
+msgid "Updates for F309 are available."
+msgstr "Доступні оновлення F309 ."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1312,8 +1312,8 @@ msgstr "Відновлення пароля"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Повернутися до Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Повернутися до F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2043,8 +2043,8 @@ msgid "Edit subscription options"
 msgstr "Змінити налаштування підписки"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Поширити з Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Поширити з F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2076,8 +2076,8 @@ msgstr "Увійти"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Підписатися на %s в Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Підписатися на %s в F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2093,14 +2093,14 @@ msgstr ""
 "підписатися."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Підписатися в Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Підписатися в F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Використовуйте цей букмарклет для публікації деяких сторінок за допомогою "
-"Tiny Tiny RSS"
+"F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3239,10 +3239,10 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS працює в безпечному режимі. Всі теми та плагіни вимкнені. Ви "
+"F309 працює в безпечному режимі. Всі теми та плагіни вимкнені. Ви "
 "маєте вийти та зайти знову щоб вимкнути їх повністю."
 
 #: js/CommonDialogs.js:50
@@ -3454,7 +3454,7 @@ msgstr "Іконка"
 #~ "Tiny RSS settings."
 #~ msgstr ""
 #~ "Використовуючи OPML ви можете експортувати та імпортувати ваші канали, "
-#~ "фільтри, мітки та налаштування Tiny Tiny RSS."
+#~ "фільтри, мітки та налаштування F309."
 
 #~ msgid ""
 #~ "Your OPML can be published publicly and can be subscribed by anyone who "
@@ -3464,10 +3464,10 @@ msgstr "Іконка"
 #~ "наступне посилання."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "Опублікований OPML не включає налаштування Tiny Tiny RSS, канали, що "
+#~ "Опублікований OPML не включає налаштування F309, канали, що "
 #~ "вимагають автентифікації чи канали, приховані зі списку Популярні."
 
 #~ msgid ""
@@ -3770,8 +3770,8 @@ msgstr "Іконка"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Реєстрація нових користувачів тимчасово припинена."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Сценарій оновлення даних Tiny Tiny RSS."
+#~ msgid "F309 data update script."
+#~ msgstr "Сценарій оновлення даних F309."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -4011,8 +4011,8 @@ msgstr "Іконка"
 #~ "Автоматично відкривати новий канал з непрочитаними статтями після "
 #~ "позначення поточного прочитаним"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
-#~ msgstr "Інші підказки з інтерфейсу доступні у вікі Tiny Tiny RSS."
+#~ msgid "Other interface tips are available in the F309 wiki."
+#~ msgstr "Інші підказки з інтерфейсу доступні у вікі F309."
 
 #~ msgid "Help topic not found."
 #~ msgstr "Стаття допомоги не знайдена."

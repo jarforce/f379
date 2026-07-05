@@ -137,8 +137,8 @@ msgid "Recent entries found in event log."
 msgstr "Poslední záznamy nalezené v protokolu událostí."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Jsou dostupné aktualizace pro Tiny Tiny RSS."
+msgid "Updates for F309 are available."
+msgstr "Jsou dostupné aktualizace pro F309."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1314,8 +1314,8 @@ msgstr "Obnovení hesla"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Zpět do Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Zpět do F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2039,8 +2039,8 @@ msgid "Edit subscription options"
 msgstr "Upravit volby odběru"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Sdílet s Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Sdílet s F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2072,8 +2072,8 @@ msgstr "Přihlásit se"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Přihlásit se k odběru %s v Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Přihlásit se k odběru %s v F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2089,14 +2089,14 @@ msgstr ""
 "jeho odběru."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Přihlásit se k odběru v Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Přihlásit se k odběru v F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Použijte tento záložkový aplet pro publikování libovolných stránek pomocí "
-"Tiny Tiny RSS"
+"F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3229,10 +3229,10 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS běží v nouzovém režimu. Všechny motivy a moduly jsou zakázány. "
+"F309 běží v nouzovém režimu. Všechny motivy a moduly jsou zakázány. "
 "Pro jeho vypnutí se budete muset odhlásit a znovu přihlásit."
 
 #: js/CommonDialogs.js:50
@@ -3447,7 +3447,7 @@ msgstr "Ikona"
 #~ "Tiny RSS settings."
 #~ msgstr ""
 #~ "Pomocí OPML můžete exportovat a importovat své kanály, filtry, štítky a "
-#~ "nastavení Tiny Tiny RSS."
+#~ "nastavení F309."
 
 #~ msgid ""
 #~ "Your OPML can be published publicly and can be subscribed by anyone who "
@@ -3457,10 +3457,10 @@ msgstr "Ikona"
 #~ "následující URL."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "Publikované OPML neobsahuje vaše nastavení Tiny Tiny RSS, kanály "
+#~ "Publikované OPML neobsahuje vaše nastavení F309, kanály "
 #~ "vyžadující ověření nebo skryté kanály před oblíbenými kanály."
 
 #~ msgid ""
@@ -3759,8 +3759,8 @@ msgstr "Ikona"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Registrace nových uživatelů jsou nyní uzavřeny."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Skript aktualizace dat Tiny Tiny RSS."
+#~ msgid "F309 data update script."
+#~ msgstr "Skript aktualizace dat F309."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -4044,9 +4044,9 @@ msgstr "Ikona"
 #~ "Automaticky otevřít další kanál s nepřečtenými články po označení "
 #~ "nějakého jako přečteného"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
+#~ msgid "Other interface tips are available in the F309 wiki."
 #~ msgstr ""
-#~ "Další tipy k používání rozhraní jsou dostupné ve wiki Tiny Tiny RSS."
+#~ "Další tipy k používání rozhraní jsou dostupné ve wiki F309."
 
 #~ msgid "Help topic not found."
 #~ msgstr "Téma nápovědy nenalezeno."
@@ -4177,9 +4177,9 @@ msgstr "Ikona"
 #~ msgstr "(upravit poznámku)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr ""
-#~ "Budete muset znovu načíst Tiny Tiny RSS pro uplatnění změn v modulech."
+#~ "Budete muset znovu načíst F309 pro uplatnění změn v modulech."
 
 #~ msgid ""
 #~ "Published articles are exported as a public RSS feed and can be "
@@ -4246,10 +4246,10 @@ msgstr "Ikona"
 #~ msgstr "Integrace s Firefoxem"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Tato stránka Tiny Tiny RSS může být použita jako Čtečka kanálů Firefox "
+#~ "Tato stránka F309 může být použita jako Čtečka kanálů Firefox "
 #~ "kliknutím na následující odkaz."
 
 #~ msgid "Click here to register this site as a feed reader."
@@ -4350,11 +4350,11 @@ msgstr "Ikona"
 #~ msgstr "Generovat nový klíč"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
-#~ "Můžete připojit další instance Tiny Tiny RSS k této pro sdílení "
-#~ "oblíbených kanálů. Připojit k této instanci Tiny Tiny RSS pomocí této URL:"
+#~ "Můžete připojit další instance F309 k této pro sdílení "
+#~ "oblíbených kanálů. Připojit k této instanci F309 pomocí této URL:"
 
 #~ msgid "Status"
 #~ msgstr "Stav"
@@ -4366,10 +4366,10 @@ msgstr "Ikona"
 #~ msgstr "Vytvořit odkaz"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "Obnovit odběr? Tiny Tiny RSS se pokusí znovu přihlásit k odběru "
+#~ "Obnovit odběr? F309 se pokusí znovu přihlásit k odběru "
 #~ "oznamovacího centra při další aktualizaci kanálu."
 
 #~ msgid "Subscription reset."
@@ -4520,8 +4520,8 @@ msgstr "Ikona"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "Přiřadit automaticky články ke štítkům"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Je dostupná nová verze Tiny Tiny RSS (%s)."
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "Je dostupná nová verze F309 (%s)."
 
 #~ msgid ""
 #~ "You can update using built-in updater in the Preferences or by using "
@@ -4541,11 +4541,11 @@ msgstr "Ikona"
 #~ "Chyba při získávání informací o verzi, nebo není dostupná žádná nová "
 #~ "verze."
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Aktualizovat Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "Aktualizovat F309"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "Vaše instalace Tiny Tiny RSS je aktuální."
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "Vaše instalace F309 je aktuální."
 
 #~ msgid "Force update"
 #~ msgstr "Vynutit aktualizaci"
@@ -4721,8 +4721,8 @@ msgstr "Ikona"
 #~ msgid ", found: "
 #~ msgstr ", nalezeno: "
 
-#~ msgid "Tiny Tiny RSS database is up to date."
-#~ msgstr "Databáze Tiny Tiny RSS je aktuální."
+#~ msgid "F309 database is up to date."
+#~ msgstr "Databáze F309 je aktuální."
 
 #~ msgid "Please backup your database before proceeding."
 #~ msgstr "Před pokračováním prosím zazálohujte databázi."
@@ -4740,17 +4740,17 @@ msgstr "Ikona"
 #~ msgstr[2] ""
 #~ "Dokončeno. Provedeno <b>%d</b> aktualizací na schéma verze <b>%d</b>."
 
-#~ msgid "Your database schema is from a newer version of Tiny Tiny RSS."
-#~ msgstr "Schéma vaší databáze je z novější verze Tiny Tiny RSS."
+#~ msgid "Your database schema is from a newer version of F309."
+#~ msgstr "Schéma vaší databáze je z novější verze F309."
 
 #~ msgid "Found schema version: <b>%d</b>, required: <b>%d</b>."
 #~ msgstr "Nalezeno schéma verze: <b>%d</b>, vyžadováno: <b>%d</b>."
 
 #~ msgid ""
-#~ "Schema upgrade impossible. Please update Tiny Tiny RSS files to the newer "
+#~ "Schema upgrade impossible. Please update F309 files to the newer "
 #~ "version and continue."
 #~ msgstr ""
-#~ "Aktualizace schématu není možná. Aktualizujte Tiny Tiny RSS na novější "
+#~ "Aktualizace schématu není možná. Aktualizujte F309 na novější "
 #~ "verzi a pokračujte."
 
 #~ msgid "Article Date"

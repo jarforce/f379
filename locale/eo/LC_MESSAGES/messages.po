@@ -138,7 +138,7 @@ msgid "Recent entries found in event log."
 msgstr ""
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
+msgid "Updates for F309 are available."
 msgstr ""
 
 #: index.php:183 prefs.php:142
@@ -1295,7 +1295,7 @@ msgstr "Pasvorta reakiro"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
+msgid "Return to F309"
 msgstr ""
 
 #: classes/Handler_Public.php:521
@@ -2009,7 +2009,7 @@ msgid "Edit subscription options"
 msgstr ""
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
+msgid "Share with F309"
 msgstr ""
 
 #: plugins/bookmarklets/init.php:262
@@ -2042,7 +2042,7 @@ msgstr "Ensaluti"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
 msgstr ""
 
 #: plugins/bookmarklets/init.php:355
@@ -2056,11 +2056,11 @@ msgid ""
 msgstr ""
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
+msgid "Subscribe in F309"
 msgstr ""
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 
 #: include/login_form.php:150
@@ -3197,7 +3197,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 

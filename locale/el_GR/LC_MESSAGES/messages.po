@@ -132,8 +132,8 @@ msgid "Recent entries found in event log."
 msgstr "Πρόσφατες εγγραφές στον καταγραφέα γεγονότων."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Διατίθενται ενημερώσεις για το Tiny Tiny RSS."
+msgid "Updates for F309 are available."
+msgstr "Διατίθενται ενημερώσεις για το F309."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1304,8 +1304,8 @@ msgstr "Ανάκτηση κωδικού πρόσβασης"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Επιστροφή σε Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Επιστροφή σε F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2033,8 +2033,8 @@ msgid "Edit subscription options"
 msgstr "Επεξεργασία επιλογών εγγραφής"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Κοινοποίηση με Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Κοινοποίηση με F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2066,8 +2066,8 @@ msgstr "Συνδεθείτε"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Εγγραφή του %s στο Tiny Tiny RSS;"
+msgid "Subscribe to %s in F309?"
+msgstr "Εγγραφή του %s στο F309;"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2083,14 +2083,14 @@ msgstr ""
 "να εγγραφείτε σε αυτήν."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Εγγραφή στο Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Εγγραφή στο F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Χρήση αυτού του δυναμικού σελιδοδείκτη για την δημοσίευση οποιασδήποτε "
-"σελίδας που χρησιμοποιείί το Tiny Tiny RSS"
+"σελίδας που χρησιμοποιείί το F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3219,10 +3219,10 @@ msgstr "Εμφάνιση ροών που ταιριάζουν..."
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Το Tiny Tiny RSS εκτελείται σε ασφαλή λειτουργία. Όλα τα θέματα και τα "
+"Το F309 εκτελείται σε ασφαλή λειτουργία. Όλα τα θέματα και τα "
 "πρόσθετα έχουν απενεργοποιηθεί. Θα χρειαστεί να αποσυνδεθείτε και να "
 "επανασυνδεθείτε για να την απενεργοποιήσετε."
 
@@ -3924,7 +3924,7 @@ msgstr "Εικονίδιο"
 #~ msgstr "Μη αναγνωσμένα Πρώτα"
 
 #, fuzzy
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
+#~ msgid "New version of F309 is available (%s)."
 #~ msgstr "Διατίθεται νέα έκδοση!"
 
 #~ msgid "See the release notes"
@@ -3933,8 +3933,8 @@ msgstr "Εικονίδιο"
 #~ msgid "Download"
 #~ msgstr "Λήψη"
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Ενημέρωση του Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "Ενημέρωση του F309"
 
 #~ msgid "Force update"
 #~ msgstr "Εξαναγκασμένη ενημέρωση"

@@ -142,8 +142,8 @@ msgid "Recent entries found in event log."
 msgstr ""
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Tiny Tiny RSS için güncellemeler var."
+msgid "Updates for F309 are available."
+msgstr "F309 için güncellemeler var."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1348,8 +1348,8 @@ msgstr "Şifre bulma"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS'e geri dön"
+msgid "Return to F309"
+msgstr "F309'e geri dön"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2077,8 +2077,8 @@ msgid "Edit subscription options"
 msgstr "Abonelik tercihlerini düzenle"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS ile paylaş"
+msgid "Share with F309"
+msgstr "F309 ile paylaş"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2110,7 +2110,7 @@ msgstr "Oturum aç"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
 msgstr "%s e abone olunsun mu?"
 
 #: plugins/bookmarklets/init.php:355
@@ -2127,13 +2127,13 @@ msgstr ""
 "bağlantıya tıklayın."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS ile abone ol"
+msgid "Subscribe in F309"
+msgstr "F309 ile abone ol"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
-"Tiny Tiny RSS'i kullanarak yazılar yayınlamak için bu bookmarklet'i kullanın"
+"F309'i kullanarak yazılar yayınlamak için bu bookmarklet'i kullanın"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3290,10 +3290,10 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS güvenli modda çalışıyor. Tüm temalar ve eklentiler devre dışı "
+"F309 güvenli modda çalışıyor. Tüm temalar ve eklentiler devre dışı "
 "bırakıldı. Devre dışı bırakmak için oturumu kapatıp tekrar açmanız "
 "gerekecektir."
 
@@ -3473,10 +3473,10 @@ msgstr "İkon"
 #~ msgstr "Aşağıdaki adresi bilen kişiler OPML'inize abone olabilir."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "Yayınlanan OPML sizin Tiny Tiny RSS tercihlerinizi ya da şifre gereken "
+#~ "Yayınlanan OPML sizin F309 tercihlerinizi ya da şifre gereken "
 #~ "özet akışlarını ya da Popüler özet akışlarından gizlenmiş özet akışlarını "
 #~ "içermez."
 
@@ -3769,8 +3769,8 @@ msgstr "İkon"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Yeni kullanıcı kayıtları şu an için kapalıdır."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Tiny Tiny RSS veri yenileme komut dosyası."
+#~ msgid "F309 data update script."
+#~ msgstr "F309 veri yenileme komut dosyası."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -3991,8 +3991,8 @@ msgstr "İkon"
 #~ "Bir yazı okundu işaretlendiğinde otomatik olarak okunmamış yazılarıyla "
 #~ "bir sonraki özet akışını aç"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
-#~ msgstr "Diğer arayüz ipuçları Tiny Tiny RSS Wiki'de mevcut."
+#~ msgid "Other interface tips are available in the F309 wiki."
+#~ msgstr "Diğer arayüz ipuçları F309 Wiki'de mevcut."
 
 #~ msgid "Help topic not found."
 #~ msgstr "Yardım konusu bulunamadı."
@@ -4113,9 +4113,9 @@ msgstr "İkon"
 #~ msgstr "(notu değiştir)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr ""
-#~ "Eklenti değişikliklerinin etkin olması için Tiny Tiny RSS'in yeniden "
+#~ "Eklenti değişikliklerinin etkin olması için F309'in yeniden "
 #~ "yüklenmesi gerekiyor."
 
 #~ msgid ""
@@ -4181,7 +4181,7 @@ msgstr "İkon"
 #~ msgstr "Firefox bütünleşimi"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
 #~ "Aşağıdaki linke tıklayarak bu site Firefox Feed Reader olarak "
@@ -4281,10 +4281,10 @@ msgstr "İkon"
 #~ msgstr "Yeni anahtar üret"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
-#~ "Popüler yazıları paylaşma amaçlı olarak Tiny Tiny RSS'in diğer "
+#~ "Popüler yazıları paylaşma amaçlı olarak F309'in diğer "
 #~ "kurulumlara bağlayabilirsiniz. Linkteki adresi kullanarak olgu bağlantısı "
 #~ "yaratın:"
 
@@ -4298,10 +4298,10 @@ msgstr "İkon"
 #~ msgstr "Bağlantı üret"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "Abonelik tekrar kurulsun mu? Tiny Tiny RSS bir sonraki özet akışı "
+#~ "Abonelik tekrar kurulsun mu? F309 bir sonraki özet akışı "
 #~ "yenilemesinde tekrar abone olmaya çalışacak."
 
 #~ msgid "Subscription reset."
@@ -4446,8 +4446,8 @@ msgstr "İkon"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "Yazıları arama başlıklarına otomatik olarak ata"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Tiny Tiny RSS'in yeni bir versiyonu mevcut (%s)."
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "F309'in yeni bir versiyonu mevcut (%s)."
 
 #~ msgid ""
 #~ "You can update using built-in updater in the Preferences or by using "
@@ -4465,11 +4465,11 @@ msgstr "İkon"
 #~ msgid "Error receiving version information or no new version available."
 #~ msgstr "Yeni versiyon bilgisi almada hata ya da yeni versiyon yok."
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Tiny Tiny RSS'i güncelle"
+#~ msgid "Update F309"
+#~ msgstr "F309'i güncelle"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "Tiny Tiny RSS kurulumunuz en güncel sürümde."
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "F309 kurulumunuz en güncel sürümde."
 
 #, fuzzy
 #~ msgid "Force update"

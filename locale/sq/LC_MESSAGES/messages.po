@@ -136,8 +136,8 @@ msgid "Recent entries found in event log."
 msgstr "U gjetën zëra të freskët te regjistri i veprimtarisë."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Ka gati përditësime për Tiny Tiny RSS."
+msgid "Updates for F309 are available."
+msgstr "Ka gati përditësime për F309."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1295,8 +1295,8 @@ msgstr "Rimarrje fjalëkalimi"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Kthehuni te Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Kthehuni te F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1993,8 +1993,8 @@ msgid "Edit subscription options"
 msgstr "Përpunoni mundësi pajtimi"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Ndajeni me të tjerë përmes Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Ndajeni me të tjerë përmes F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2026,8 +2026,8 @@ msgstr "Hyni"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Të pajtohet te %s përmes Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Të pajtohet te %s përmes F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2043,14 +2043,14 @@ msgstr ""
 "pajtoheni në të."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Pajtohuni përmes Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Pajtohuni përmes F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Përdoreni këtë aplikacionth faqerojtësish që të botoni faqe arbitrare përmes "
-"Tiny Tiny RSS"
+"F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3164,10 +3164,10 @@ msgstr "Shfaq prurje me përkim…"
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS po funksionon nën mënyrën e parrezik. Janë çaktivizuar krejt "
+"F309 po funksionon nën mënyrën e parrezik. Janë çaktivizuar krejt "
 "temat dhe shtojcat. Që të çaktivizohet kjo mënyrë, do t’ju duhet të dilni "
 "nga llogaria dhe të rihyni."
 

@@ -10,7 +10,7 @@
 # Étienne Gilli <etienne.gilli@gmail.com>, 2014.
 msgid ""
 msgstr ""
-"Project-Id-Version: Tiny Tiny RSS\n"
+"Project-Id-Version: F309\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-07 02:22+0000\n"
 "PO-Revision-Date: 2026-01-18 19:01+0000\n"
@@ -143,8 +143,8 @@ msgid "Recent entries found in event log."
 msgstr "Des nouveaux évènements ont été journalisés."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Des mises à jour de Tiny Tiny RSS sont disponibles."
+msgid "Updates for F309 are available."
+msgstr "Des mises à jour de F309 sont disponibles."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1304,8 +1304,8 @@ msgstr "Récupération de mot de passe"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Revenir à Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Revenir à F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2007,8 +2007,8 @@ msgid "Edit subscription options"
 msgstr "Modifier les options d’abonnement"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Partager avec Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Partager avec F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2040,8 +2040,8 @@ msgstr "Se connecter"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "S’abonner à %s dans Tiny Tiny RSS ?"
+msgid "Subscribe to %s in F309?"
+msgstr "S’abonner à %s dans F309 ?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2057,12 +2057,12 @@ msgstr ""
 "flux."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "S’abonner dans Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "S’abonner dans F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
-msgstr "Utilisez ce signet pour publier des pages avec Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
+msgstr "Utilisez ce signet pour publier des pages avec F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3182,10 +3182,10 @@ msgstr "Afficher les flux correspondants..."
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS est en mode sans-échec. Tous les thèmes et les greffons sont "
+"F309 est en mode sans-échec. Tous les thèmes et les greffons sont "
 "désactivés. Vous devrez vous déconnecter et vous reconnecter pour désactiver "
 "ce mode."
 
@@ -3395,7 +3395,7 @@ msgstr "Icône"
 #~ "Tiny RSS settings."
 #~ msgstr ""
 #~ "Avec OPML, vous pouvez exporter et importer vos flux, filtres, étiquettes "
-#~ "et réglages de Tiny Tiny RSS."
+#~ "et réglages de F309."
 
 #~ msgid ""
 #~ "Your OPML can be published publicly and can be subscribed by anyone who "
@@ -3405,10 +3405,10 @@ msgstr "Icône"
 #~ "l’adresse indiquée ci-dessous peut s’y abonner."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "Les OPML publiés n'incluent pas vos réglages de Tiny Tiny RSS, les flux "
+#~ "Les OPML publiés n'incluent pas vos réglages de F309, les flux "
 #~ "qui nécessitent une authentification, ou les flux cachés des Flux "
 #~ "Populaires."
 
@@ -3721,8 +3721,8 @@ msgstr "Icône"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "L’inscription de nouveaux utilisateurs est actuellement fermée."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Script de mise à jour des données de Tiny Tiny RSS."
+#~ msgid "F309 data update script."
+#~ msgstr "Script de mise à jour des données de F309."
 
 #~ msgid "Safe mode (no plugins)"
 #~ msgstr "Mode sans échec (sans greffon)"
@@ -4003,7 +4003,7 @@ msgstr "Icône"
 #~ msgstr ""
 #~ "Sauter automatiquement au flux suivant après en avoir marqué un comme lu"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
+#~ msgid "Other interface tips are available in the F309 wiki."
 #~ msgstr ""
 #~ "D’autres astuces sur l’interface sont disponibles sur le wiki de Tiny "
 #~ "Tiny RSS."
@@ -4143,9 +4143,9 @@ msgstr "Icône"
 #~ msgstr "(modifier l’annotation)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr ""
-#~ "Vous devrez relancer Tiny Tiny RSS pour que les changements apportés aux "
+#~ "Vous devrez relancer F309 pour que les changements apportés aux "
 #~ "greffons prennent effet."
 
 #~ msgid ""
@@ -4223,10 +4223,10 @@ msgstr "Icône"
 #~ msgstr "Intégration à Firefox"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Ce site Tiny Tiny RSS peut être utilisé comme lecteur de flux dans "
+#~ "Ce site F309 peut être utilisé comme lecteur de flux dans "
 #~ "Firefox en cliquant sur le lien ci-dessous."
 
 #~ msgid "Click here to register this site as a feed reader."
@@ -4308,7 +4308,7 @@ msgstr "Icône"
 #~ "Téléchargez plus de plugins sur <a class=\"visibleLink\" "
 #~ "target=\"_blank\" href=\"http://tt-rss.org/forum/viewforum.php?f=22\">le "
 #~ "forum</a> ou <a target=\"_blank\" class=\"visibleLink\" href=\"http://tt-"
-#~ "rss.org/wiki/Plugins\">le wiki</a> de Tiny Tiny RSS."
+#~ "rss.org/wiki/Plugins\">le wiki</a> de F309."
 
 #~ msgid "Linked"
 #~ msgstr "Instances liées"
@@ -4332,10 +4332,10 @@ msgstr "Icône"
 #~ msgstr "Générer une nouvelle clef"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
-#~ "Vous pouvez connecter d'autres instances de Tiny Tiny RSS à celle-ci pour "
+#~ "Vous pouvez connecter d'autres instances de F309 à celle-ci pour "
 #~ "partager les flux populaires. Pour cela, utilisez l'URL suivante :"
 
 #~ msgid "Status"
@@ -4348,10 +4348,10 @@ msgstr "Icône"
 #~ msgstr "Créer un lien"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "Réinitialiser l'inscription ? Tiny Tiny RSS essayera de se réinscrire au "
+#~ "Réinitialiser l'inscription ? F309 essayera de se réinscrire au "
 #~ "hub de notification lors de la prochaine mise à jour du flux."
 
 #~ msgid "Subscription reset."
@@ -4517,8 +4517,8 @@ msgstr "Icône"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "Assigner des étiquettes aux articles automatiquement"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Une nouvelle version de Tiny Tiny RSS est disponible (%s)."
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "Une nouvelle version de F309 est disponible (%s)."
 
 #~ msgid ""
 #~ "You can update using built-in updater in the Preferences or by using "
@@ -4538,11 +4538,11 @@ msgstr "Icône"
 #~ "Erreur de lecture de l'information de version ou aucune nouvelle version "
 #~ "disponible."
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Mettre à jour Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "Mettre à jour F309"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "Votre installation de Tiny Tiny RSS est à jour."
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "Votre installation de F309 est à jour."
 
 #~ msgid "Force update"
 #~ msgstr "Forcer la mise à jour"
@@ -4719,8 +4719,8 @@ msgstr "Icône"
 #~ msgid ", found: "
 #~ msgstr ", trouvée : "
 
-#~ msgid "Tiny Tiny RSS database is up to date."
-#~ msgstr "La base de données de Tiny Tiny RSS est à jour."
+#~ msgid "F309 database is up to date."
+#~ msgstr "La base de données de F309 est à jour."
 
 #~ msgid "Please backup your database before proceeding."
 #~ msgstr "Merci de sauvegardez votre base de données avant de poursuivre."
@@ -4738,20 +4738,20 @@ msgstr "Icône"
 #~ "Terminé. <b>%d</b> modifications ont été effectuées pour parvenir à la "
 #~ "version de schéma <b>%d</b>."
 
-#~ msgid "Your database schema is from a newer version of Tiny Tiny RSS."
+#~ msgid "Your database schema is from a newer version of F309."
 #~ msgstr ""
 #~ "Votre schéma de base de données provient d'une version plus récente de "
-#~ "Tiny Tiny RSS."
+#~ "F309."
 
 #~ msgid "Found schema version: <b>%d</b>, required: <b>%d</b>."
 #~ msgstr "Version du schéma trouvée : <b>%d</b>, requise : <b>%d</b>."
 
 #~ msgid ""
-#~ "Schema upgrade impossible. Please update Tiny Tiny RSS files to the newer "
+#~ "Schema upgrade impossible. Please update F309 files to the newer "
 #~ "version and continue."
 #~ msgstr ""
 #~ "Mise à jour du schéma impossible. Veuillez mettre à jour les fichiers de "
-#~ "Tiny Tiny RSS vers une version plus récente et continuer."
+#~ "F309 vers une version plus récente et continuer."
 
 #~ msgid "Enable external API"
 #~ msgstr "Activer les API externes"
@@ -4887,11 +4887,11 @@ msgstr "Icône"
 #~ msgstr "Focus sur la recherche (si affichée)"
 
 #~ msgid ""
-#~ "<b>Note:</b> not all actions may be available, depending on Tiny Tiny RSS "
+#~ "<b>Note:</b> not all actions may be available, depending on F309 "
 #~ "configuration and your access level."
 #~ msgstr ""
 #~ "<b>Note :</b> certaines actions peuvent ne pas être disponibles, selon la "
-#~ "configuration de Tiny Tiny RSS et vos permissions."
+#~ "configuration de F309 et vos permissions."
 
 #~ msgid "Open article in new tab"
 #~ msgstr "Ouvrir les articles dans un nouvel onglet"
@@ -4991,10 +4991,10 @@ msgstr "Icône"
 
 #~ msgid ""
 #~ "Before you can update your Twitter feeds, you must register this instance "
-#~ "of Tiny Tiny RSS with Twitter.com."
+#~ "of F309 with Twitter.com."
 #~ msgstr ""
 #~ "Avant de mettre à jour vos flux Twitter, vous devez enregistrer cette "
-#~ "instance de Tiny Tiny RSS avec Twitter.com."
+#~ "instance de F309 avec Twitter.com."
 
 #~ msgid ""
 #~ "You have been successfully registered with Twitter.com and should be able "

@@ -1,4 +1,4 @@
-# Tiny Tiny RSS resource file. 
+# F309 resource file. 
 # Copyright (C) 2014
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR valdis.vitolins@odo.lv, 2014.
@@ -138,8 +138,8 @@ msgid "Recent entries found in event log."
 msgstr "Nesenie notikumu žurnālā atrastie ieraksti."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Ir pieejami Tiny Tiny RSS atjauninājumi."
+msgid "Updates for F309 are available."
+msgstr "Ir pieejami F309 atjauninājumi."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1295,8 +1295,8 @@ msgstr "Parole atjaunošana"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Atgriezties uz Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Atgriezties uz F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1991,8 +1991,8 @@ msgid "Edit subscription options"
 msgstr "Mainīt barotnes iestatījumus"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Kopīgot ar Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Kopīgot ar F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2024,8 +2024,8 @@ msgstr "Pieteikties"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Abonēt %s Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Abonēt %s F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2040,13 +2040,13 @@ msgstr ""
 "un jāklikšķina uz saites, lai abonētu to."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Abonēt Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Abonēt F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
-"Šī grāmatzīme ir izmantojama, lai publicētu izvēlētās lapas ar Tiny Tiny RSS"
+"Šī grāmatzīme ir izmantojama, lai publicētu izvēlētās lapas ar F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3154,10 +3154,10 @@ msgstr "Rāda atbilstošās barotnes..."
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS darbojas drošajā režīmā. Visi izskati un spraudņi ir "
+"F309 darbojas drošajā režīmā. Visi izskati un spraudņi ir "
 "atspējoti. Būs nepieciešams atteikties un pieteikties, lai to atspējotu."
 
 #: js/CommonDialogs.js:50
@@ -3333,7 +3333,7 @@ msgstr "Ikona"
 #~ "Tiny RSS settings."
 #~ msgstr ""
 #~ "Izmantojot OPML jūs varat eksportēt un importēt savas barotnes, filtrus, "
-#~ "etiķetes un Tiny Tiny RSS iestatījumus."
+#~ "etiķetes un F309 iestatījumus."
 
 #~ msgid ""
 #~ "Your OPML can be published publicly and can be subscribed by anyone who "
@@ -3342,10 +3342,10 @@ msgstr "Ikona"
 #~ "Jūsu OPML var publicēt un to var abonēt katrs, kas zin zemāk minēto saiti."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "Publicētajā OPML nav iekļauti: jūsu Tiny Tiny RSS iestatījumi, barotnes, "
+#~ "Publicētajā OPML nav iekļauti: jūsu F309 iestatījumi, barotnes, "
 #~ "kurās nepieciešams autentificēties un arī barotnes, kas ir paslēptas no "
 #~ "populārajām barotnēm."
 
@@ -3653,8 +3653,8 @@ msgstr "Ikona"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Jaunu lietotāju reģistrācija šobrīd ir slēgta."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Tiny Tiny RSS datu atjaunošanas skripts."
+#~ msgid "F309 data update script."
+#~ msgstr "F309 datu atjaunošanas skripts."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -3879,8 +3879,8 @@ msgstr "Ikona"
 #~ "Automātiski atver nākamo barotni, kad vienā visi raksti ir atzīmēti kā "
 #~ "lasīti"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
-#~ msgstr "Citi saskarnes padomi ir pieejami Tiny Tiny RSS viki vietnē."
+#~ msgid "Other interface tips are available in the F309 wiki."
+#~ msgstr "Citi saskarnes padomi ir pieejami F309 viki vietnē."
 
 #~ msgid "Help topic not found."
 #~ msgstr "Palīdzības tēma netika atrasta."
@@ -4008,9 +4008,9 @@ msgstr "Ikona"
 #~ msgstr "(mainīt piezīmi)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr ""
-#~ "Lai tas sāktu strādāt, jums būs nepieciešams pārlādēt Tiny Tiny RSS "
+#~ "Lai tas sāktu strādāt, jums būs nepieciešams pārlādēt F309 "
 #~ "spraudni."
 
 #~ msgid ""
@@ -4075,10 +4075,10 @@ msgstr "Ikona"
 #~ msgstr "Firefox integrācija"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Šo Tiny Tiny RSS vietni var izmantot kā Firefox Feed Reader, klikšķinot "
+#~ "Šo F309 vietni var izmantot kā Firefox Feed Reader, klikšķinot "
 #~ "uz zemākās saites."
 
 #~ msgid "Click here to register this site as a feed reader."
@@ -4182,11 +4182,11 @@ msgstr "Ikona"
 #~ msgstr "Ģenerēt jaunu atslēgu"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
 #~ "Jūs varat pievienot kopīgot populārās barotnes un pieslēgt tai citas Tiny "
-#~ "Tiny RSS instances. Pievienoties šai Tiny Tiny RSS instancei var, "
+#~ "Tiny RSS instances. Pievienoties šai F309 instancei var, "
 #~ "izmantojot šo saiti:"
 
 #~ msgid "Status"
@@ -4199,10 +4199,10 @@ msgstr "Ikona"
 #~ msgstr "Izveidot saiti"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "Atstatīt pasūtīšanu? Tiny Tiny RSS mēģinās savākt informāciju no šīs "
+#~ "Atstatīt pasūtīšanu? F309 mēģinās savākt informāciju no šīs "
 #~ "barotnes kārtējā atjaunojuma laikā."
 
 #~ msgid "Subscription reset."
@@ -4350,8 +4350,8 @@ msgstr "Ikona"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "Pievienot rakstu iezīmes automātiski"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Ir pieejama jauna Tiny Tiny RSS versija (%s)."
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "Ir pieejama jauna F309 versija (%s)."
 
 #~ msgid ""
 #~ "You can update using built-in updater in the Preferences or by using "
@@ -4371,11 +4371,11 @@ msgstr "Ikona"
 #~ "Jauna versija nav pieejama, vai arī radās kļūda, saņemot versijas "
 #~ "informāciju."
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Atjaunot Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "Atjaunot F309"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "Jūsu Tiny Tiny RSS ir aktuāls."
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "Jūsu F309 ir aktuāls."
 
 #~ msgid "Force update"
 #~ msgstr "Uzspiest atjaunojumus"
@@ -4551,8 +4551,8 @@ msgstr "Ikona"
 #~ msgid ", found: "
 #~ msgstr ", atradu:"
 
-#~ msgid "Tiny Tiny RSS database is up to date."
-#~ msgstr "Tiny Tiny RSS datubāze ir aktuāla."
+#~ msgid "F309 database is up to date."
+#~ msgstr "F309 datubāze ir aktuāla."
 
 #~ msgid "Please backup your database before proceeding."
 #~ msgstr "Lūdzu pirms turpināšanas atjaunojiet datu bāzi."
@@ -4571,18 +4571,18 @@ msgstr "Ikona"
 #~ "Pabeigts. Izpildīju <b>%d</b> shēmas atjaunojumu(s)\n"
 #~ "\t\t\tversija <b>%d</b>."
 
-#~ msgid "Your database schema is from a newer version of Tiny Tiny RSS."
-#~ msgstr "Jūsu datu bāzes shēma ir no jaunākas Tiny Tiny RSS versijas."
+#~ msgid "Your database schema is from a newer version of F309."
+#~ msgstr "Jūsu datu bāzes shēma ir no jaunākas F309 versijas."
 
 #~ msgid "Found schema version: <b>%d</b>, required: <b>%d</b>."
 #~ msgstr "Atradu shēmu ar versiju: <b>%d</b>, nepieciešama: <b>%d</b>."
 
 #~ msgid ""
-#~ "Schema upgrade impossible. Please update Tiny Tiny RSS files to the newer "
+#~ "Schema upgrade impossible. Please update F309 files to the newer "
 #~ "version and continue."
 #~ msgstr ""
 #~ "Nav iespējams veikt shēmas atjaunošanu. Lūdzu, pirms turpiniet, "
-#~ "atjaunojiet Tiny Tiny RSS failus uz jaunāku versiju."
+#~ "atjaunojiet F309 failus uz jaunāku versiju."
 
 #~ msgid "Enable external API"
 #~ msgstr "Ieslēgt ārēju API"
@@ -4723,11 +4723,11 @@ msgstr "Ikona"
 #~ msgstr "Fokusēt meklēšanu (ja ir)"
 
 #~ msgid ""
-#~ "<b>Note:</b> not all actions may be available, depending on Tiny Tiny RSS "
+#~ "<b>Note:</b> not all actions may be available, depending on F309 "
 #~ "configuration and your access level."
 #~ msgstr ""
 #~ "<b>Piezīme:</b> iespējams, ka visas darbības nav pieejamas, atkarībā no "
-#~ "Tiny Tiny RSS iestatījumiem un jūsu pieejas tiesībām."
+#~ "F309 iestatījumiem un jūsu pieejas tiesībām."
 
 #~ msgid "Fatal: authentication module %s not found."
 #~ msgstr "Fatāla kļūda: netika atrasts autentifikācijas modulis %s."

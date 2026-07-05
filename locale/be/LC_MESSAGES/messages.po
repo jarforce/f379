@@ -139,8 +139,8 @@ msgid "Recent entries found in event log."
 msgstr "Знойдзены нядаўнія запісы ў журнале падзей."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Ёсць абнаўленне для Tiny Tiny RSS."
+msgid "Updates for F309 are available."
+msgstr "Ёсць абнаўленне для F309."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1297,8 +1297,8 @@ msgstr "Аднаўленне пароля"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Павярнуцца да Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Павярнуцца да F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2004,8 +2004,8 @@ msgid "Edit subscription options"
 msgstr "Змяніць налады падпіскі"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Апублікаваць праз Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Апублікаваць праз F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2037,8 +2037,8 @@ msgstr "Увайсці"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Падпісацца на %s у Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Падпісацца на %s у F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2054,11 +2054,11 @@ msgstr ""
 "падпісацца."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Падпісацца ў Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Падпісацца ў F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Выкарыстоўвайце гэты букмарклет для публікацыі старонак з дапамогай Tiny "
 "Tiny RSS"
@@ -3180,10 +3180,10 @@ msgstr "Паказаць адпаведныя каналы..."
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS працуе ў бяспечным рэжыме. Усе стылі і плагіны адключаны. Вам "
+"F309 працуе ў бяспечным рэжыме. Усе стылі і плагіны адключаны. Вам "
 "патрэбна выйсці і ўвайсці зноў, каб цалкам выключыць бяспечны рэжым."
 
 #: js/CommonDialogs.js:50

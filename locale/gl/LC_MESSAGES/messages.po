@@ -138,7 +138,7 @@ msgid "Recent entries found in event log."
 msgstr "Entradas recentes atopadas no rexistro de eventos."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
+msgid "Updates for F309 are available."
 msgstr "Hai actualizacións dispoñibles para Tiny Tiny Rss."
 
 #: index.php:183 prefs.php:142
@@ -1291,8 +1291,8 @@ msgstr "Recuperación do contrasinal"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Volver a Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Volver a F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1988,8 +1988,8 @@ msgid "Edit subscription options"
 msgstr "Editar opcións da subscrición"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Compartir con Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Compartir con F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2021,8 +2021,8 @@ msgstr "Acceder"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Subscribirse a %s en Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Subscribirse a %s en F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2037,13 +2037,13 @@ msgstr ""
 "canle que che interesa e preme na ligazón para subscribirte a ela."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Subscribirse con Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Subscribirse con F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
-"Usa este bookmarklet para publicar calquera páxina usando Tiny Tiny RSS"
+"Usa este bookmarklet para publicar calquera páxina usando F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3153,10 +3153,10 @@ msgstr "Mostrar canles que concordan..."
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS estase executando en modo seguro. Todos os decorados e "
+"F309 estase executando en modo seguro. Todos os decorados e "
 "complementos están desactivados. Terás que pechar sesión e volver a acceder "
 "para desactivalo."
 

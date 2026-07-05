@@ -138,7 +138,7 @@ msgstr ""
 
 #: index.php:179 prefs.php:139
 #, fuzzy
-msgid "Updates for Tiny Tiny RSS are available."
+msgid "Updates for F309 are available."
 msgstr "Ny version til rådighed!"
 
 #: index.php:183 prefs.php:142
@@ -1356,8 +1356,8 @@ msgstr "Genoprettelse af adgangskode"
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
 #, fuzzy
-msgid "Return to Tiny Tiny RSS"
-msgstr "Opdater Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Opdater F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2099,8 +2099,8 @@ msgstr "Rediger abonnementsindstillinger"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
 #, fuzzy
-msgid "Share with Tiny Tiny RSS"
-msgstr "Opdater Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Opdater F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2132,7 +2132,7 @@ msgstr "Log på"
 
 #: plugins/bookmarklets/init.php:348
 #, fuzzy, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
 msgstr "Abonneret på %s"
 
 #: plugins/bookmarklets/init.php:355
@@ -2147,11 +2147,11 @@ msgstr ""
 
 #: plugins/bookmarklets/init.php:360
 #, fuzzy
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Opdater Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Opdater F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 
 #: include/login_form.php:150
@@ -3349,7 +3349,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 
@@ -4044,7 +4044,7 @@ msgstr "Ikon"
 #~ msgstr "Ulæst først"
 
 #, fuzzy
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
+#~ msgid "New version of F309 is available (%s)."
 #~ msgstr "Ny version til rådighed!"
 
 #~ msgid "See the release notes"
@@ -4053,8 +4053,8 @@ msgstr "Ikon"
 #~ msgid "Download"
 #~ msgstr "Download"
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Opdater Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "Opdater F309"
 
 #~ msgid "Force update"
 #~ msgstr "Tving opdatering"

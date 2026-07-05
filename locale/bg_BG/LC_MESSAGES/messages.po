@@ -146,7 +146,7 @@ msgstr ""
 #: index.php:179 prefs.php:139
 #, fuzzy
 #| msgid "Updates are available from Git."
-msgid "Updates for Tiny Tiny RSS are available."
+msgid "Updates for F309 are available."
 msgstr "Налични са обновления от Git."
 
 #: index.php:183 prefs.php:142
@@ -1385,8 +1385,8 @@ msgstr "Възстановяване на парола"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Назад към Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Назад към F309"
 
 #: classes/Handler_Public.php:521
 #, fuzzy
@@ -1455,7 +1455,7 @@ msgstr "Обновяване"
 #: classes/Handler_Public.php:742
 #, fuzzy, php-format
 msgid "Database schema needs update to the latest version (%d to %d)."
-msgstr "Tiny Tiny RSS скрипт за обновяване на данните."
+msgstr "F309 скрипт за обновяване на данните."
 
 #: classes/Pref_Feeds.php:66 classes/Pref_Feeds.php:226
 #: classes/Pref_Feeds.php:286 classes/Pref_Feeds.php:292
@@ -2136,8 +2136,8 @@ msgid "Edit subscription options"
 msgstr "Редактиране на абонаментните опции"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Споделяне с Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Споделяне с F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2169,8 +2169,8 @@ msgstr "Вход"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Абониране за \"%s\" в Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Абониране за \"%s\" в F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2186,11 +2186,11 @@ msgstr ""
 "абонирате."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Абониране в Tiny Tiny RSS?"
+msgid "Subscribe in F309"
+msgstr "Абониране в F309?"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Използвайте тази отметка за публикуване на произволни страници чрез Tiny "
 "Tiny RSS"
@@ -3411,7 +3411,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 
@@ -3593,7 +3593,7 @@ msgstr "Икона"
 #~ "Tiny RSS settings."
 #~ msgstr ""
 #~ "Чрез OPML можете да изнасяте и внасяте Вашите хранилки, филтри, етикети и "
-#~ "Tiny Tiny RSS настройки."
+#~ "F309 настройки."
 
 #~ msgid ""
 #~ "Your OPML can be published publicly and can be subscribed by anyone who "
@@ -3603,10 +3603,10 @@ msgstr "Икона"
 #~ "може да се абонира."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "Публикуваният OPML не съдържа Вашите Tiny Tiny RSS настройки, хранилки с "
+#~ "Публикуваният OPML не съдържа Вашите F309 настройки, хранилки с "
 #~ "автентикация и скрити хранилки от \"Популярни хранилки\"."
 
 #, fuzzy
@@ -3915,8 +3915,8 @@ msgstr "Икона"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Текущо новите потребителски регистрации са затворени."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Tiny Tiny RSS скрипт за обновяване на данните."
+#~ msgid "F309 data update script."
+#~ msgstr "F309 скрипт за обновяване на данните."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -4132,8 +4132,8 @@ msgstr "Икона"
 #~ "Автоматично отваряне на следващата хранилка с нечетени статии при "
 #~ "отбелязване на текущата като прочетена"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
-#~ msgstr "Още такива съвети има в Tiny Tiny RSS wiki."
+#~ msgid "Other interface tips are available in the F309 wiki."
+#~ msgstr "Още такива съвети има в F309 wiki."
 
 #~ msgid "Help topic not found."
 #~ msgstr "Помощната тема не е намерена."
@@ -4256,9 +4256,9 @@ msgstr "Икона"
 #~ msgstr "(редактиране на бележка)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr ""
-#~ "Ще трябва да презаредите Tiny Tiny RSS, за да влязат в сила промените по "
+#~ "Ще трябва да презаредите F309, за да влязат в сила промените по "
 #~ "добавките."
 
 #~ msgid ""
@@ -4323,10 +4323,10 @@ msgstr "Икона"
 #~ msgstr "Firefox интеграция"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Този Tiny Tiny RSS сайт може да се използва като четец на хранилки във "
+#~ "Този F309 сайт може да се използва като четец на хранилки във "
 #~ "Firefox чрез избиране на връзката по-долу."
 
 #~ msgid "Click here to register this site as a feed reader."
@@ -4424,10 +4424,10 @@ msgstr "Икона"
 #~ msgstr "Генериране на нов ключ"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
-#~ "Можете да свържете други инсталации на Tiny Tiny RSS към тази, за да "
+#~ "Можете да свържете други инсталации на F309 към тази, за да "
 #~ "споделяте популярни хранилки. Свързване към тази инсталация на Tiny Tiny "
 #~ "RSS чрез този URL:"
 
@@ -4441,10 +4441,10 @@ msgstr "Икона"
 #~ msgstr "Създаване на връзка"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "Нулиране на абонамента? Tiny Tiny RSS ще опита да се абонира към "
+#~ "Нулиране на абонамента? F309 ще опита да се абонира към "
 #~ "известията отново при следващото обновяване на хранилките."
 
 #~ msgid "Subscription reset."

@@ -145,9 +145,9 @@ msgstr ""
 
 #: index.php:179 prefs.php:139
 #, fuzzy
-#| msgid "New version of Tiny Tiny RSS is available!"
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Tiny Tiny RSS 새 버전이 나왔습니다!"
+#| msgid "New version of F309 is available!"
+msgid "Updates for F309 are available."
+msgstr "F309 새 버전이 나왔습니다!"
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1377,8 +1377,8 @@ msgstr "암호 복구"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS로 돌아가기"
+msgid "Return to F309"
+msgstr "F309로 돌아가기"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1446,7 +1446,7 @@ msgstr "업데이트"
 #, fuzzy, php-format
 msgid "Database schema needs update to the latest version (%d to %d)."
 msgstr ""
-"Tiny Tiny RSS は最新のバージョンに更新する必要があります (<b>%d</b> から "
+"F309 は最新のバージョンに更新する必要があります (<b>%d</b> から "
 "<b>%d</b>)。"
 
 #: classes/Pref_Feeds.php:66 classes/Pref_Feeds.php:226
@@ -2110,8 +2110,8 @@ msgid "Edit subscription options"
 msgstr "구독 옵션 편집"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS에 공유하기"
+msgid "Share with F309"
+msgstr "F309에 공유하기"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2143,8 +2143,8 @@ msgstr "로그인"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Tiny Tiny RSS에서 %s를 구독할까요?"
+msgid "Subscribe to %s in F309?"
+msgstr "F309에서 %s를 구독할까요?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2157,11 +2157,11 @@ msgid ""
 msgstr ""
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS 구독 목록"
+msgid "Subscribe in F309"
+msgstr "F309 구독 목록"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 
 #: include/login_form.php:150
@@ -3357,7 +3357,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 
@@ -3780,8 +3780,8 @@ msgstr "아이콘"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "현재는 신규 사용자 등록을 할 수 없습니다."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Tiny Tiny RSS 데이터 업데이트 스크립트."
+#~ msgid "F309 data update script."
+#~ msgstr "F309 데이터 업데이트 스크립트."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -3986,8 +3986,8 @@ msgstr "아이콘"
 #~ msgstr "(노트 편집)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
-#~ msgstr "변경 사항을 적용하기 위해서는 Tiny Tiny RSS를 새로 고침해야합니다."
+#~ "You will need to reload F309 for plugin changes to take effect."
+#~ msgstr "변경 사항을 적용하기 위해서는 F309를 새로 고침해야합니다."
 
 #~ msgid ""
 #~ "Published articles are exported as a public RSS feed and can be "
@@ -4044,10 +4044,10 @@ msgstr "아이콘"
 #~ msgstr "Firefox 연동"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Tiny Tiny RSS를 Firefox Feed Reader로 사용하려면 아래 링크를 클릭하세요."
+#~ "F309를 Firefox Feed Reader로 사용하려면 아래 링크를 클릭하세요."
 
 #~ msgid "Click here to register this site as a feed reader."
 #~ msgstr "이 사이트를 피드 리더로 등록하려면 여기를 클릭하세요"
@@ -4219,17 +4219,17 @@ msgstr "아이콘"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "글에 자동으로 라벨 추가"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "새 버전의 Tiny Tiny RSS를 사용할 수 있습니다. (%s)"
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "새 버전의 F309를 사용할 수 있습니다. (%s)"
 
 #~ msgid "See the release notes"
 #~ msgstr "릴리즈 노트 확인하기"
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Tiny Tiny RSS 업데이트"
+#~ msgid "Update F309"
+#~ msgstr "F309 업데이트"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "설치된 Tiny Tiny RSS가 최신입니다."
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "설치된 F309가 최신입니다."
 
 #, fuzzy
 #~ msgid "Force update"
@@ -4358,8 +4358,8 @@ msgstr "아이콘"
 #~ msgid ", found: "
 #~ msgstr ", 以下が見つかりました: "
 
-#~ msgid "Tiny Tiny RSS database is up to date."
-#~ msgstr "Tiny Tiny RSS のデータベースを更新しました。"
+#~ msgid "F309 database is up to date."
+#~ msgstr "F309 のデータベースを更新しました。"
 
 #~ msgid "Please backup your database before proceeding."
 #~ msgstr "実行前にデータベースのバックアップをしてください。"
@@ -4378,18 +4378,18 @@ msgstr "아이콘"
 #~ "完了しました。<b>%d</b> 個のテーブルをスキーマーバージョン<b>%d</b> に更新"
 #~ "しました。"
 
-#~ msgid "Your database schema is from a newer version of Tiny Tiny RSS."
-#~ msgstr "Databaseスキーマは、Tiny Tiny RSSの新しいバージョンからのものです。"
+#~ msgid "Your database schema is from a newer version of F309."
+#~ msgstr "Databaseスキーマは、F309の新しいバージョンからのものです。"
 
 #~ msgid "Found schema version: <b>%d</b>, required: <b>%d</b>."
 #~ msgstr ""
 #~ "スキーマバージョンが: <b>%d</b>, でした。 以下が必要です: <b>%d</b>."
 
 #~ msgid ""
-#~ "Schema upgrade impossible. Please update Tiny Tiny RSS files to the newer "
+#~ "Schema upgrade impossible. Please update F309 files to the newer "
 #~ "version and continue."
 #~ msgstr ""
-#~ "スキーマアップグレードができません。Tiny Tiny RSSを新しいバージョンに更新"
+#~ "スキーマアップグレードができません。F309を新しいバージョンに更新"
 #~ "してから続けてください。"
 
 #~ msgid "Article Date"
@@ -4864,28 +4864,28 @@ msgstr "아이콘"
 #~ msgid "Synchronizing..."
 #~ msgstr "同期しています..."
 
-#~ msgid "Switch Tiny Tiny RSS into offline mode?"
-#~ msgstr "Tiny Tiny RSS をオフラインモードに切り替えますか?"
+#~ msgid "Switch F309 into offline mode?"
+#~ msgstr "F309 をオフラインモードに切り替えますか?"
 
-#~ msgid "Tiny Tiny RSS will reload. Go online?"
+#~ msgid "F309 will reload. Go online?"
 #~ msgstr ""
-#~ "Tiny Tiny RSS を再読み込みするでしょう。オンライン処理に移行しますか?"
+#~ "F309 を再読み込みするでしょう。オンライン処理に移行しますか?"
 
 #~ msgid "Last sync: Cancelled."
 #~ msgstr "最終同期: 取り消されました。"
 
 #~ msgid ""
-#~ "This will remove all offline data stored by Tiny Tiny RSS on this "
+#~ "This will remove all offline data stored by F309 on this "
 #~ "computer. Continue?"
 #~ msgstr ""
-#~ "これはこのコンピューター上の Tiny Tiny RSS により保存されたすべてのオフラ"
+#~ "これはこのコンピューター上の F309 により保存されたすべてのオフラ"
 #~ "インデータを削除するでしょう。続けますか?"
 
 #~ msgid ""
-#~ "Tiny Tiny RSS has trouble accessing its server. Would you like to go "
+#~ "F309 has trouble accessing its server. Would you like to go "
 #~ "offline?"
 #~ msgstr ""
-#~ "Tiny Tiny RSS はサーバーへのアクセス中に障害がありました。オフラインモード"
+#~ "F309 はサーバーへのアクセス中に障害がありました。オフラインモード"
 #~ "に移行しますか?"
 
 #~ msgid "Reset category order?"
@@ -4968,8 +4968,8 @@ msgstr "아이콘"
 #~ msgid "Selection"
 #~ msgstr "選択"
 
-#~ msgid "Tiny Tiny RSS is in offline mode."
-#~ msgstr "Tiny Tiny RSS はオフラインモードです。"
+#~ msgid "F309 is in offline mode."
+#~ msgstr "F309 はオフラインモードです。"
 
 #, fuzzy
 #~ msgid ""
@@ -5121,9 +5121,9 @@ msgstr "아이콘"
 #~ msgstr "記事が X 日より新しい"
 
 #~ msgid ""
-#~ "This script is for Tiny Tiny RSS installations with MySQL backend only."
+#~ "This script is for F309 installations with MySQL backend only."
 #~ msgstr ""
-#~ "このスクリプトは Tiny Tiny RSS を MySQL バックエンドにのみインストールしま"
+#~ "このスクリプトは F309 を MySQL バックエンドにのみインストールしま"
 #~ "す。"
 
 #~ msgid "Converting database..."

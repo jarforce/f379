@@ -1,7 +1,7 @@
-# Tiny Tiny RSS (tt-rss) - AI Coding Agent Instructions
+# F309 (tt-rss) - AI Coding Agent Instructions
 
 ## Project Overview
-Tiny Tiny RSS is a web-based RSS/Atom feed reader and aggregator built with PHP (backend) and JavaScript with Dojo Toolkit (frontend). Forked in October 2025 to continue development after original tt-rss.org shutdown.
+F309 is a web-based RSS/Atom feed reader and aggregator built with PHP (backend) and JavaScript with Dojo Toolkit (frontend). Forked in October 2025 to continue development after original tt-rss.org shutdown.
 
 ## CRITICAL: Essential Prerequisites
 

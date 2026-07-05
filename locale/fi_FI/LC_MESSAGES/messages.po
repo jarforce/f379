@@ -140,8 +140,8 @@ msgid "Recent entries found in event log."
 msgstr "Viimeaikaiset tapahtumalokista löytyneet merkinnät."
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Päivityksiä Tiny Tiny RSS:lle on saatavilla."
+msgid "Updates for F309 are available."
+msgstr "Päivityksiä F309:lle on saatavilla."
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1313,8 +1313,8 @@ msgstr "Salasanan palautus"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Takaisin Tiny Tiny RSS:ään"
+msgid "Return to F309"
+msgstr "Takaisin F309:ään"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -2028,8 +2028,8 @@ msgid "Edit subscription options"
 msgstr "Muokkaa syötteen asetuksia"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Jaa Tiny Tiny RSS:llä"
+msgid "Share with F309"
+msgstr "Jaa F309:llä"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2061,8 +2061,8 @@ msgstr "Kirjaudu sisään"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "TIlataanko %s Tiny Tiny RSS:ssä?"
+msgid "Subscribe to %s in F309?"
+msgstr "TIlataanko %s F309:ssä?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2077,12 +2077,12 @@ msgstr ""
 "kiinnsotunut selaimessasi ja klikkaa linkkiä tilataksesi syötteen."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Tilaa Tiny Tiny RSS:ssä"
+msgid "Subscribe in F309"
+msgstr "Tilaa F309:ssä"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
-msgstr "Käytä tätä kirjanmerkkiä tilataksesi sivuja Tiny Tiny RSS:ää käyttäen"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
+msgstr "Käytä tätä kirjanmerkkiä tilataksesi sivuja F309:ää käyttäen"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3201,10 +3201,10 @@ msgstr "Näytä vastaavat syötteet..."
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS on käynnissä vikasietotilassa. Kaikki teemat ja liitännäiset "
+"F309 on käynnissä vikasietotilassa. Kaikki teemat ja liitännäiset "
 "on poistettu käytöstä. Sinun on kirjauduttava ulos ja takaisin sisään, jotta "
 "voit poistaa sen käytöstä."
 
@@ -3382,7 +3382,7 @@ msgstr "Suosikkikuvake"
 #~ "Tiny RSS settings."
 #~ msgstr ""
 #~ "OPML:ää käyttäen voit viedä ja tuoda syötteitä, suodattimia, tunnisteita "
-#~ "ja Tiny Tiny RSS:n asetuksia."
+#~ "ja F309:n asetuksia."
 
 #~ msgid ""
 #~ "Your OPML can be published publicly and can be subscribed by anyone who "
@@ -3392,10 +3392,10 @@ msgstr "Suosikkikuvake"
 #~ "osoitetta."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "Julkaistu OPML ei sisällä Tiny Tiny RSS -asetuksiasi, autentikointia "
+#~ "Julkaistu OPML ei sisällä F309 -asetuksiasi, autentikointia "
 #~ "vaativia syötteitä tai suosituista syötteistä piilotettuja syötteitä."
 
 #, fuzzy
@@ -3642,8 +3642,8 @@ msgstr "Suosikkikuvake"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Uusien käyttäjien rekisteröinti on tällä hetkellä suljettu."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Tiny Tiny RSS:n datapäivitysskripti."
+#~ msgid "F309 data update script."
+#~ msgstr "F309:n datapäivitysskripti."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -3781,8 +3781,8 @@ msgstr "Suosikkikuvake"
 #~ "Avaa automaattisesti seuraava lukemattomia artikkeleita sisältävä syöte "
 #~ "kun edellinen on merkitty luetuksi"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
-#~ msgstr "Lisää käyttövinkkejä löydät Tiny Tiny RSS -wikistä."
+#~ msgid "Other interface tips are available in the F309 wiki."
+#~ msgstr "Lisää käyttövinkkejä löydät F309 -wikistä."
 
 #~ msgid "Help topic not found."
 #~ msgstr "Aiheesta ei löytynyt ohjeita."
@@ -3905,7 +3905,7 @@ msgstr "Suosikkikuvake"
 #~ msgstr "(muokkaa muistiinpanoa)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr "Päivitä sivu aktivoidaksesi lisäosiin tehdyt muutokset."
 
 #~ msgid ""
@@ -3967,10 +3967,10 @@ msgstr "Suosikkikuvake"
 #~ msgstr "Firefox-integraatio"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Tiny Tiny RSS -sivustoa voidaan käyttää Firefoxin syötelukijana "
+#~ "F309 -sivustoa voidaan käyttää Firefoxin syötelukijana "
 #~ "klikkaamalla alla olevaa linkkiä"
 
 #~ msgid "Click here to register this site as a feed reader."
@@ -4164,8 +4164,8 @@ msgstr "Suosikkikuvake"
 #~ msgid "Download"
 #~ msgstr "Lataa"
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Päivitä Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "Päivitä F309"
 
 #, fuzzy
 #~ msgid "Force update"

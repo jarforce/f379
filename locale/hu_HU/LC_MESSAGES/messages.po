@@ -145,9 +145,9 @@ msgstr ""
 
 #: index.php:179 prefs.php:139
 #, fuzzy
-#| msgid "New version of Tiny Tiny RSS is available!"
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "A Tiny Tiny RSS-nek elérhető egy újabb verziója!"
+#| msgid "New version of F309 is available!"
+msgid "Updates for F309 are available."
+msgstr "A F309-nek elérhető egy újabb verziója!"
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1383,7 +1383,7 @@ msgstr "Jelszó helyreállítás"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
+msgid "Return to F309"
 msgstr "Vissza az RSS-olvasóhoz"
 
 #: classes/Handler_Public.php:521
@@ -1454,7 +1454,7 @@ msgstr "Frissítés"
 #: classes/Handler_Public.php:742
 #, fuzzy, php-format
 msgid "Database schema needs update to the latest version (%d to %d)."
-msgstr "A Tiny Tiny RSS adatbázis frissítő szkript."
+msgstr "A F309 adatbázis frissítő szkript."
 
 #: classes/Pref_Feeds.php:66 classes/Pref_Feeds.php:226
 #: classes/Pref_Feeds.php:286 classes/Pref_Feeds.php:292
@@ -2137,8 +2137,8 @@ msgid "Edit subscription options"
 msgstr "Feliratkozási beállítások szerkesztése"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Megosztás Tiny Tiny RSS-el"
+msgid "Share with F309"
+msgstr "Megosztás F309-el"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2170,8 +2170,8 @@ msgstr "Belépés"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Feliratkozás %s hírcsatornára a Tiny Tiny RSS-ben?"
+msgid "Subscribe to %s in F309?"
+msgstr "Feliratkozás %s hírcsatornára a F309-ben?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2186,11 +2186,11 @@ msgstr ""
 "hírcsatornát és kattintson a linkre a feliratkozáshoz."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Feliratkozás a Tiny Tiny RSS-ben?"
+msgid "Subscribe in F309"
+msgstr "Feliratkozás a F309-ben?"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Használja ezt a bookmarkletet tetszőleges oldalak közzétételére a Tiny Tiny "
 "RSS használatával"
@@ -3406,7 +3406,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 
@@ -3592,7 +3592,7 @@ msgstr "Ikon"
 #~ "alábbi URL-t."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
 #~ "A publikált OPML nem tartalmazza a beállításokat, az azonosítást igénylő "
@@ -3893,8 +3893,8 @@ msgstr "Ikon"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Új felhasználók regisztrációja jelenleg nem engedélyezett."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "A Tiny Tiny RSS adatbázis frissítő szkript."
+#~ msgid "F309 data update script."
+#~ msgstr "A F309 adatbázis frissítő szkript."
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -4113,9 +4113,9 @@ msgstr "Ikon"
 #~ "Automatikusan megnyitja a következő olvasatlan híreket tartalmazó "
 #~ "hírcsatornát miután egyet megjelöl olvasottként"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
+#~ msgid "Other interface tips are available in the F309 wiki."
 #~ msgstr ""
-#~ "További tippek a felhasználói felülethez elérhetők a Tiny Tiny RSS "
+#~ "További tippek a felhasználói felülethez elérhetők a F309 "
 #~ "wikiben."
 
 #~ msgid "Help topic not found."
@@ -4241,7 +4241,7 @@ msgstr "Ikon"
 #~ msgstr "(jegyzet szerkesztése)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr ""
 #~ "A beépülők változtatásainak érvényesítéséhez újra kell tölteni a Tiny "
 #~ "Tiny RSS-t."
@@ -4309,10 +4309,10 @@ msgstr "Ikon"
 #~ msgstr "Firefox integráció"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Ez a Tiny Tiny RSS oldal beállítható a Firefox böngésző alapértelmezett "
+#~ "Ez a F309 oldal beállítható a Firefox böngésző alapértelmezett "
 #~ "hírcsatorna-olvasójaként. Ehhez kattintson az alábbi linkre!"
 
 #~ msgid "Click here to register this site as a feed reader."
@@ -4412,11 +4412,11 @@ msgstr "Ikon"
 #~ msgstr "Új kulcs generálása"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
-#~ "A Népszerű hírcsatornák megosztásához csatlakoztathat másik Tiny Tiny RSS "
-#~ "példányokat ehhez. A Tiny Tiny RSS ezen példányához való kapcsolódáshoz "
+#~ "A Népszerű hírcsatornák megosztásához csatlakoztathat másik F309 "
+#~ "példányokat ehhez. A F309 ezen példányához való kapcsolódáshoz "
 #~ "ez az URL használható:"
 
 #~ msgid "Status"
@@ -4429,10 +4429,10 @@ msgstr "Ikon"
 #~ msgstr "Link létrehozás"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "Feliratkozás visszaállítása? a következő frissítéskor Tiny Tiny RSS "
+#~ "Feliratkozás visszaállítása? a következő frissítéskor F309 "
 #~ "megpróbál automatikusan újra feliratkozni."
 
 #~ msgid "Subscription reset."
@@ -4578,8 +4578,8 @@ msgstr "Ikon"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "Címkék automatikus hozzárendelése a hírekhez"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Új Tiny Tiny RSS verzió érhető el (%s)."
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "Új F309 verzió érhető el (%s)."
 
 #~ msgid ""
 #~ "You can update using built-in updater in the Preferences or by using "
@@ -4598,11 +4598,11 @@ msgstr "Ikon"
 #~ msgstr ""
 #~ "Hiba a verzió információ fogadása közben vagy nem érhető el új verzió."
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Tiny Tiny RSS frissítése"
+#~ msgid "Update F309"
+#~ msgstr "F309 frissítése"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "A Tiny Tiny RSS telepítés naprakész."
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "A F309 telepítés naprakész."
 
 #, fuzzy
 #~ msgid "Force update"

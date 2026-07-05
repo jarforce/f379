@@ -5,7 +5,7 @@
 # gothfox <cthulhoo@gmail.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: Tiny Tiny RSS\n"
+"Project-Id-Version: F309\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-07 02:22+0000\n"
 "PO-Revision-Date: 2026-06-08 06:01+0000\n"
@@ -136,8 +136,8 @@ msgid "Recent entries found in event log."
 msgstr "在事件紀錄檔中找到的最近條目。"
 
 #: index.php:179 prefs.php:139
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Tiny Tiny RSS 有新版本啦。"
+msgid "Updates for F309 are available."
+msgstr "F309 有新版本啦。"
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1281,8 +1281,8 @@ msgstr "密碼救援"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "返回 Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "返回 F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1967,8 +1967,8 @@ msgid "Edit subscription options"
 msgstr "編輯訂閱選項"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "分享 Tiny Tiny RSS 中訂閱"
+msgid "Share with F309"
+msgstr "分享 F309 中訂閱"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2000,8 +2000,8 @@ msgstr "登入"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "在 Tiny Tiny RSS 中訂閱 %s ？"
+msgid "Subscribe to %s in F309?"
+msgstr "在 F309 中訂閱 %s ？"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2016,12 +2016,12 @@ msgstr ""
 "後按下此連結按鈕即可訂閱。"
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "在 Tiny Tiny RSS 中訂閱"
+msgid "Subscribe in F309"
+msgstr "在 F309 中訂閱"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
-msgstr "使用書籤小程式經 Tiny Tiny RSS 發布任意頁面"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
+msgstr "使用書籤小程式經 F309 發布任意頁面"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3106,10 +3106,10 @@ msgstr "顯示符合的摘要…"
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
-"Tiny Tiny RSS 正在以安全模式執行。所有主題和擴充套件均已停用。您需要登出後重"
+"F309 正在以安全模式執行。所有主題和擴充套件均已停用。您需要登出後重"
 "新登入以停用它。"
 
 #: js/CommonDialogs.js:50
@@ -3298,7 +3298,7 @@ msgstr "圖示"
 #~ msgid ""
 #~ "Using OPML you can export and import your feeds, filters, labels and Tiny "
 #~ "Tiny RSS settings."
-#~ msgstr "使用OPML你可以匯出或匯入摘要、過濾器、標籤和 Tiny Tiny RSS 的設定。"
+#~ msgstr "使用OPML你可以匯出或匯入摘要、過濾器、標籤和 F309 的設定。"
 
 #~ msgid ""
 #~ "Your OPML can be published publicly and can be subscribed by anyone who "
@@ -3307,10 +3307,10 @@ msgstr "圖示"
 #~ "您可以公開發布您的 OPML 。網上的任何人都可以透過如下 URL 訂閱該文件。"
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "已發佈的OPML中不包含您的 Tiny Tiny RSS 設定、需要認證的摘要和最受歡迎的摘"
+#~ "已發佈的OPML中不包含您的 F309 設定、需要認證的摘要和最受歡迎的摘"
 #~ "要中隱藏的摘要。"
 
 #~ msgid ""
@@ -3597,8 +3597,8 @@ msgstr "圖示"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "使用者註冊功能目前沒有啟用。"
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Tiny Tiny RSS 資料庫是最新版。"
+#~ msgid "F309 data update script."
+#~ msgstr "F309 資料庫是最新版。"
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -3831,8 +3831,8 @@ msgstr "圖示"
 #~ msgid "limit:"
 #~ msgstr "限制："
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
-#~ msgstr "在 Tiny Tiny RSS 的維基上可以找到其他界面技巧。"
+#~ msgid "Other interface tips are available in the F309 wiki."
+#~ msgstr "在 F309 的維基上可以找到其他界面技巧。"
 
 #~ msgid "Help topic not found."
 #~ msgstr "未找到幫助主題。"
@@ -3921,8 +3921,8 @@ msgstr "圖示"
 #~ msgstr "（編輯註記）"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
-#~ msgstr "你必須重新啟動 Tiny Tiny RSS 之後，才會生效喔～"
+#~ "You will need to reload F309 for plugin changes to take effect."
+#~ msgstr "你必須重新啟動 F309 之後，才會生效喔～"
 
 #~ msgid ""
 #~ "Published articles are exported as a public RSS feed and can be "
@@ -3984,10 +3984,10 @@ msgstr "圖示"
 #~ msgstr "Firefox 整合"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "按下以下連結，可以將本 Tiny Tiny RSS 站作為一個 Firefox 閱讀器使用。"
+#~ "按下以下連結，可以將本 F309 站作為一個 Firefox 閱讀器使用。"
 
 #~ msgid "Click here to register this site as a feed reader."
 #~ msgstr "點擊此處將本站註冊為摘要閱讀器。"
@@ -4090,10 +4090,10 @@ msgstr "圖示"
 #~ msgstr "產生新的金鑰"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
-#~ "您可以與其他的 Tiny Tiny RSS 實例相聯，以共享最受歡迎的摘要列表。透過這個 "
+#~ "您可以與其他的 F309 實例相聯，以共享最受歡迎的摘要列表。透過這個 "
 #~ "URL 為本實例建立鏈接："
 
 #~ msgid "Status"
@@ -4106,10 +4106,10 @@ msgstr "圖示"
 #~ msgstr "建立鏈接"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "重置訂閱？ Tiny Tiny RSS 將會在下次摘要更新的時候嘗試再次訂閱信息提醒中"
+#~ "重置訂閱？ F309 將會在下次摘要更新的時候嘗試再次訂閱信息提醒中"
 #~ "心。"
 
 #, fuzzy
@@ -4228,8 +4228,8 @@ msgstr "圖示"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "自動套用文章標籤"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Tiny Tiny RSS 有可用的新版本 (%s)。"
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "F309 有可用的新版本 (%s)。"
 
 #~ msgid "See the release notes"
 #~ msgstr "看釋出日誌"
@@ -4237,11 +4237,11 @@ msgstr "圖示"
 #~ msgid "Download"
 #~ msgstr "下載"
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "升級 Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "升級 F309"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "您的 Tiny Tiny RSS 已經是最新版。"
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "您的 F309 已經是最新版。"
 
 #~ msgid "Force update"
 #~ msgstr "強制執行更新"
@@ -4371,8 +4371,8 @@ msgstr "圖示"
 #~ msgid ", found: "
 #~ msgstr "，找到："
 
-#~ msgid "Tiny Tiny RSS database is up to date."
-#~ msgstr "Tiny Tiny RSS 資料庫是最新版。"
+#~ msgid "F309 database is up to date."
+#~ msgstr "F309 資料庫是最新版。"
 
 #~ msgid "Please backup your database before proceeding."
 #~ msgstr "執行下一步前請先備份資料庫。"
@@ -4388,16 +4388,16 @@ msgstr "圖示"
 #~ "完成。完成了 <b>%d</b> 個更新，\n"
 #~ "\t\t\t表結搆版本升級至 <b>%d</b>。"
 
-#~ msgid "Your database schema is from a newer version of Tiny Tiny RSS."
-#~ msgstr "您的資料庫表結搆來自一個較新版本的 Tiny Tiny RSS。"
+#~ msgid "Your database schema is from a newer version of F309."
+#~ msgstr "您的資料庫表結搆來自一個較新版本的 F309。"
 
 #~ msgid "Found schema version: <b>%d</b>, required: <b>%d</b>."
 #~ msgstr "發現新版本的表結搆：<b>%d</b>，需要的版本：<b>%d</b>。"
 
 #~ msgid ""
-#~ "Schema upgrade impossible. Please update Tiny Tiny RSS files to the newer "
+#~ "Schema upgrade impossible. Please update F309 files to the newer "
 #~ "version and continue."
-#~ msgstr "無法升級表結搆。請將 Tiny Tiny RSS 更新到最新版本之後再來嘗試。"
+#~ msgstr "無法升級表結搆。請將 F309 更新到最新版本之後再來嘗試。"
 
 #~ msgid "Enable external API"
 #~ msgstr "允許使用外部 API"
@@ -4528,10 +4528,10 @@ msgstr "圖示"
 #~ msgstr "進入搜尋框（頁面中存在的情況）"
 
 #~ msgid ""
-#~ "<b>Note:</b> not all actions may be available, depending on Tiny Tiny RSS "
+#~ "<b>Note:</b> not all actions may be available, depending on F309 "
 #~ "configuration and your access level."
 #~ msgstr ""
-#~ "<b>提醒：</b>根據 Tiny Tiny RSS 的配置和你的訪問級別不同，並非所有的動作都"
+#~ "<b>提醒：</b>根據 F309 的配置和你的訪問級別不同，並非所有的動作都"
 #~ "可以執行。"
 
 #~ msgid "Open article in new tab"
@@ -4634,9 +4634,9 @@ msgstr "圖示"
 
 #~ msgid ""
 #~ "Before you can update your Twitter feeds, you must register this instance "
-#~ "of Tiny Tiny RSS with Twitter.com."
+#~ "of F309 with Twitter.com."
 #~ msgstr ""
-#~ "更新 Twitter 摘要之前，您必須在 Twitter.com 上註冊這個 Tiny Tiny RSS 的實"
+#~ "更新 Twitter 摘要之前，您必須在 Twitter.com 上註冊這個 F309 的實"
 #~ "例。"
 
 #~ msgid ""

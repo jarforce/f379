@@ -419,7 +419,7 @@ class Handler_Public extends Handler {
 		<!DOCTYPE html>
 		<html>
 		<head>
-			<title>Tiny Tiny RSS</title>
+			<title>F309</title>
 			<link rel="shortcut icon" type="image/png" href="images/favicon.png">
 			<link rel="icon" type="image/png" sizes="72x72" href="images/favicon-72px.png">
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -499,7 +499,7 @@ class Handler_Public extends Handler {
 				print_error("Some of the information provided is missing or incorrect.");
 			}
 
-			print "<a href='index.php'>".__("Return to Tiny Tiny RSS")."</a>";
+			print "<a href='index.php'>".__("Return to F309")."</a>";
 
 		} else if (!$method) {
 			print_notice(__("You will need to provide valid account name and email. Password reset link will be sent to your email address."));
@@ -530,7 +530,7 @@ class Handler_Public extends Handler {
 				<hr/>
 				<fieldset>
 				<button dojoType='dijit.form.Button' type='submit' class='alt-danger'>".__("Reset password")."</button>
-				<a href='index.php'>".__("Return to Tiny Tiny RSS")."</a>
+				<a href='index.php'>".__("Return to F309")."</a>
 				</fieldset>
 
 				</form>";
@@ -591,7 +591,7 @@ class Handler_Public extends Handler {
 					$user->resetpass_token = time() . ":" . $resetpass_token;
 					$user->save();
 
-					print "<a href='index.php'>".__("Return to Tiny Tiny RSS")."</a>";
+					print "<a href='index.php'>".__("Return to F309")."</a>";
 				} else {
 					print_error(__("Sorry, login and email combination not found."));
 
@@ -622,7 +622,7 @@ class Handler_Public extends Handler {
 		<!DOCTYPE html>
 		<html>
 			<head>
-			<title>Tiny Tiny RSS: Database Updater</title>
+			<title>F309: Database Updater</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 			<link rel="icon" type="image/png" sizes="72x72" href="images/favicon-72px.png">
 			<link rel="shortcut icon" type="image/png" href="images/favicon.png">
@@ -708,14 +708,14 @@ class Handler_Public extends Handler {
 						<?php } else { ?>
 							<?= format_notice("Update successful.") ?>
 
-							<a href="index.php"><?= __("Return to Tiny Tiny RSS") ?></a>
+							<a href="index.php"><?= __("Return to F309") ?></a>
 						<?php }
 
 					} else { ?>
 
 						<?= format_notice("Database is already up to date.") ?>
 
-						<a href="index.php"><?= __("Return to Tiny Tiny RSS") ?></a>
+						<a href="index.php"><?= __("Return to F309") ?></a>
 
 						<?php
 					}
@@ -738,7 +738,7 @@ class Handler_Public extends Handler {
 
 						<?= format_notice("Database is already up to date.") ?>
 
-						<a href="index.php"><?= __("Return to Tiny Tiny RSS") ?></a>
+						<a href="index.php"><?= __("Return to F309") ?></a>
 
 						<?php
 					}

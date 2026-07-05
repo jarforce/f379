@@ -142,9 +142,9 @@ msgstr "S'han trobat entrades recents al registre d'events."
 
 #: index.php:179 prefs.php:139
 #, fuzzy
-#| msgid "New version of Tiny Tiny RSS is available!"
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Hi ha una nova versió de Tiny Tiny RSS!"
+#| msgid "New version of F309 is available!"
+msgid "Updates for F309 are available."
+msgstr "Hi ha una nova versió de F309!"
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1350,8 +1350,8 @@ msgstr "Recuperació de contrasenya"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Torna a Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "Torna a F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1420,7 +1420,7 @@ msgstr "Actualitza"
 #, fuzzy, php-format
 msgid "Database schema needs update to the latest version (%d to %d)."
 msgstr ""
-"La base de dades de Tiny Tiny RSS s'ha d'actualitzar ( de la versió <b>%d</"
+"La base de dades de F309 s'ha d'actualitzar ( de la versió <b>%d</"
 "b> a la <b>%d</b>)."
 
 #: classes/Pref_Feeds.php:66 classes/Pref_Feeds.php:226
@@ -2090,8 +2090,8 @@ msgid "Edit subscription options"
 msgstr "Edita les opcions de les subscripcions"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Compartir amb Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "Compartir amb F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2123,8 +2123,8 @@ msgstr "Registreu-vos"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "Subscriure's a %s amb Tiny Tiny RSS?"
+msgid "Subscribe to %s in F309?"
+msgstr "Subscriure's a %s amb F309?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2139,14 +2139,14 @@ msgstr ""
 "canal al que et vols subscriure i clica a l'enllaç per a subscriure-t'hi."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Subscriure amb Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "Subscriure amb F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
 "Fes servir aquest bookmarklet per a publicar qualssevol pàgina fent servir "
-"Tiny Tiny RSS"
+"F309"
 
 #: include/login_form.php:150
 msgid "I forgot my password"
@@ -3358,7 +3358,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 
@@ -3564,7 +3564,7 @@ msgstr "Icona"
 #~ "subscriure."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
 #~ "L'OPML publicat no conté les vostres preferències, canals que demanin "
@@ -3871,7 +3871,7 @@ msgstr "Icona"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "Actualment no es permet el registre de nous usuaris."
 
-#~ msgid "Tiny Tiny RSS data update script."
+#~ msgid "F309 data update script."
 #~ msgstr "Script per actualitzar base de dades TT-RSS."
 
 #, fuzzy
@@ -4295,10 +4295,10 @@ msgstr "Icona"
 #~ msgstr "Integració al Firefox"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
-#~ "Podeu utilitzar Tiny Tiny RSS  com a lector de canals amb el Firefox fent "
+#~ "Podeu utilitzar F309  com a lector de canals amb el Firefox fent "
 #~ "clic en el següent enllaç."
 
 #~ msgid "Click here to register this site as a feed reader."
@@ -4499,16 +4499,16 @@ msgstr "Icona"
 #~ msgstr "Marca els articles com a llegits automàticament."
 
 #, fuzzy
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Hi ha una nova versió de Tiny Tiny RSS!"
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "Hi ha una nova versió de F309!"
 
 #, fuzzy
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Torna a Tiny Tiny RSS"
+#~ msgid "Update F309"
+#~ msgstr "Torna a F309"
 
 #, fuzzy
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "La base de dades de Tiny Tiny RSS està actualitzada."
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "La base de dades de F309 està actualitzada."
 
 #, fuzzy
 #~ msgid "Force update"
@@ -4647,8 +4647,8 @@ msgstr "Icona"
 #~ msgid ", found: "
 #~ msgstr ", trobats:"
 
-#~ msgid "Tiny Tiny RSS database is up to date."
-#~ msgstr "La base de dades de Tiny Tiny RSS està actualitzada."
+#~ msgid "F309 database is up to date."
+#~ msgstr "La base de dades de F309 està actualitzada."
 
 #~ msgid "Please backup your database before proceeding."
 #~ msgstr ""
@@ -4813,7 +4813,7 @@ msgstr "Icona"
 #~ msgstr "Concreta la cerca (si n'hi ha)"
 
 #~ msgid ""
-#~ "<b>Note:</b> not all actions may be available, depending on Tiny Tiny RSS "
+#~ "<b>Note:</b> not all actions may be available, depending on F309 "
 #~ "configuration and your access level."
 #~ msgstr ""
 #~ "<b>Nota:</b> L'accés a les accions depèn de la configuració del Tiny Tiny "
@@ -4963,12 +4963,12 @@ msgstr "Icona"
 #~ msgstr "Filtratge del contingut"
 
 #~ msgid ""
-#~ "Tiny Tiny RSS has support for filtering (or processing) articles. "
+#~ "F309 has support for filtering (or processing) articles. "
 #~ "Filtering is done once, when new article is imported to the database from "
 #~ "the newsfeed, specified field is matched against regular expression and "
 #~ "some action is taken. Regular expression matching is case-insensitive."
 #~ msgstr ""
-#~ "Tiny Tiny RSS pot filtrar articles. El filtratge es realitza quan "
+#~ "F309 pot filtrar articles. El filtratge es realitza quan "
 #~ "s'importa el nou article a la base de dades del canal de notícies si "
 #~ "coincideix l'expressió regular configurada. Les expressions regulars "
 #~ "distingeixen entre les majúscules i les minúscules."
@@ -5113,10 +5113,10 @@ msgstr "Icona"
 #~ "inserits en format MP3."
 
 #~ msgid ""
-#~ "You are running the latest version of Tiny Tiny RSS. The fact that you "
+#~ "You are running the latest version of F309. The fact that you "
 #~ "are seeing this dialog is probably a bug."
 #~ msgstr ""
-#~ "Esteu utillitzant l'última versió de Tiny Tiny RSS. Si esteu veient "
+#~ "Esteu utillitzant l'última versió de F309. Si esteu veient "
 #~ "aquest quadre és possible que sigui degut a una panerola."
 
 #~ msgid "Feed Browser"
@@ -5267,27 +5267,27 @@ msgstr "Icona"
 #~ msgid "Synchronizing..."
 #~ msgstr "S'està sincronitzant"
 
-#~ msgid "Switch Tiny Tiny RSS into offline mode?"
-#~ msgstr "Voleu canviar Tiny Tiny RSS al mode fora de línia?"
+#~ msgid "Switch F309 into offline mode?"
+#~ msgstr "Voleu canviar F309 al mode fora de línia?"
 
-#~ msgid "Tiny Tiny RSS will reload. Go online?"
-#~ msgstr "Tiny Tiny RSS s'ha carregat de nou. Voleu treballar connectat?"
+#~ msgid "F309 will reload. Go online?"
+#~ msgstr "F309 s'ha carregat de nou. Voleu treballar connectat?"
 
 #~ msgid "Last sync: Cancelled."
 #~ msgstr "Última sincronització: cancel·lada."
 
 #~ msgid ""
-#~ "This will remove all offline data stored by Tiny Tiny RSS on this "
+#~ "This will remove all offline data stored by F309 on this "
 #~ "computer. Continue?"
 #~ msgstr ""
 #~ "Així eliminareu totes les dades fora de línia emmagatzemades per Tiny "
 #~ "Tiny RSS en aquest ordinador. Voleu continuar?"
 
 #~ msgid ""
-#~ "Tiny Tiny RSS has trouble accessing its server. Would you like to go "
+#~ "F309 has trouble accessing its server. Would you like to go "
 #~ "offline?"
 #~ msgstr ""
-#~ "Tiny Tiny RSS no ha pogut accedir al servidor. Voleu que funcioni fora de "
+#~ "F309 no ha pogut accedir al servidor. Voleu que funcioni fora de "
 #~ "línia?"
 
 #~ msgid "Reset category order?"
@@ -5373,8 +5373,8 @@ msgstr "Icona"
 #~ msgid "Selection"
 #~ msgstr "Selecció"
 
-#~ msgid "Tiny Tiny RSS is in offline mode."
-#~ msgstr "Tiny Tiny RSS està treballant en mode fora de línia."
+#~ msgid "F309 is in offline mode."
+#~ msgstr "F309 està treballant en mode fora de línia."
 
 #~ msgid ""
 #~ "You have to synchronize some articles before going into offline mode."
@@ -5383,10 +5383,10 @@ msgstr "Icona"
 #~ "línia."
 
 #~ msgid ""
-#~ "You won't be able to access offline version of Tiny Tiny RSS until you "
+#~ "You won't be able to access offline version of F309 until you "
 #~ "switch it into offline mode again. Go online?"
 #~ msgstr ""
-#~ "No podeu accedir a la versió fora de línia de Tiny Tiny RSS fins que no "
+#~ "No podeu accedir a la versió fora de línia de F309 fins que no "
 #~ "canvieu, de nou, a mode fora de línia. Voleu connectar-vos?"
 
 #~ msgid "Can't open article: received invalid XML"
@@ -5520,19 +5520,19 @@ msgstr "Icona"
 #~ msgstr "Outil de mise à jour du jeu de caractères MySQL"
 
 #~ msgid ""
-#~ "This script is for Tiny Tiny RSS installations with MySQL backend only."
+#~ "This script is for F309 installations with MySQL backend only."
 #~ msgstr ""
-#~ "Ce script n'est utilisable que pour une installation de Tiny Tiny RSS "
+#~ "Ce script n'est utilisable que pour une installation de F309 "
 #~ "avec un moteur MySQL."
 
 #~ msgid ""
-#~ "This script will convert your Tiny Tiny RSS database to UTF-8. \n"
+#~ "This script will convert your F309 database to UTF-8. \n"
 #~ "\t\t\tDepending on current database charset you may experience data "
 #~ "corruption (lost accent characters, etc.). \n"
 #~ "\t\t\tAfter update, you'll have to set <b>MYSQL_CHARSET</b> option in "
 #~ "config.php to 'utf8'."
 #~ msgstr ""
-#~ "Ce script va modifier votre base de données Tiny Tiny RSS pour qu'elle "
+#~ "Ce script va modifier votre base de données F309 pour qu'elle "
 #~ "utilise le jeu de caractères UTF-8. \n"
 #~ "\t\t\tSelon le jeu de caractères actuellement utilisé, cela peut "
 #~ "entraîner une corruption des données (caractères accentués perdus, "
@@ -5574,7 +5574,7 @@ msgstr "Icona"
 #~ "export.php</b>\n"
 #~ "\t\tet <b>xml-import.php</b>) peuvent être exploités de manière "
 #~ "dangereuse.\n"
-#~ "\t\tVeuillez les supprimer de votre installation de Tiny Tiny RSS.\n"
+#~ "\t\tVeuillez les supprimer de votre installation de F309.\n"
 
 #~ msgid ""
 #~ "<b>Fatal Error</b>: Please set DAEMON_UPDATE_LOGIN_LIMIT\n"

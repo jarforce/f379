@@ -143,7 +143,7 @@ msgstr "ورودی های اخیر در گزارش حادثه یافت شد."
 #: index.php:179 prefs.php:139
 #, fuzzy
 #| msgid "Updates are available from Git."
-msgid "Updates for Tiny Tiny RSS are available."
+msgid "Updates for F309 are available."
 msgstr "به‌روزرسانی‌ها در Git قابل دسترس هستند."
 
 #: index.php:183 prefs.php:142
@@ -1343,8 +1343,8 @@ msgstr "بازیابی رمز عبور"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "برگشت به صفحه Tiny Tiny RSS"
+msgid "Return to F309"
+msgstr "برگشت به صفحه F309"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1412,10 +1412,10 @@ msgstr "به روز رسانی"
 #: classes/Handler_Public.php:742
 #, fuzzy, php-format
 #| msgid ""
-#| "Tiny Tiny RSS database needs update to the latest version (%d to %d)."
+#| "F309 database needs update to the latest version (%d to %d)."
 msgid "Database schema needs update to the latest version (%d to %d)."
 msgstr ""
-"دیتابیس Tiny Tiny RSS باید به جدیدترین نسخه، به‌روزرسانی شود. (%d to %d)."
+"دیتابیس F309 باید به جدیدترین نسخه، به‌روزرسانی شود. (%d to %d)."
 
 #: classes/Pref_Feeds.php:66 classes/Pref_Feeds.php:226
 #: classes/Pref_Feeds.php:286 classes/Pref_Feeds.php:292
@@ -2093,8 +2093,8 @@ msgid "Edit subscription options"
 msgstr "گزینه های مشترک شده را ویرایش کنید"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "اشتراک‌گذاری با Tiny Tiny RSS"
+msgid "Share with F309"
+msgstr "اشتراک‌گذاری با F309"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2126,8 +2126,8 @@ msgstr "ورود"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "عضویت در %s در Tiny Tiny RSS؟"
+msgid "Subscribe to %s in F309?"
+msgstr "عضویت در %s در F309؟"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2142,13 +2142,13 @@ msgstr ""
 "خود باز کنید و برای عضویت در آن، روی لینک کلیک کنید."
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "مشترک شدن در Tiny Tiny RSS"
+msgid "Subscribe in F309"
+msgstr "مشترک شدن در F309"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
-"از این نشانک برای انتشار صفحات دلخواه با استفاده از Tiny Tiny RSS استفاده "
+"از این نشانک برای انتشار صفحات دلخواه با استفاده از F309 استفاده "
 "کنید"
 
 #: include/login_form.php:150
@@ -3350,7 +3350,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 
@@ -3568,10 +3568,10 @@ msgstr "آیکون"
 #~ "قابل استفاده است."
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "OPML منتشر شده شامل تنظیمات Tiny Tiny RSS، فیدهایی که نیاز به احزار هویت "
+#~ "OPML منتشر شده شامل تنظیمات F309، فیدهایی که نیاز به احزار هویت "
 #~ "دارند و یا فید هایی مخفی در فیدهای عمومی نمیشود."
 
 #~ msgid ""
@@ -3869,8 +3869,8 @@ msgstr "آیکون"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "ثبت نام کاربر جدید در حال حاضر امکانپذیر نمی باشد."
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "اسکرپیت به‌روزرسانی داده Tiny Tiny RSS."
+#~ msgid "F309 data update script."
+#~ msgstr "اسکرپیت به‌روزرسانی داده F309."
 
 #~ msgid "Safe mode (no plugins)"
 #~ msgstr "حالت امن (بدون پلاگین‌ها)"

@@ -141,9 +141,9 @@ msgstr "イベントログに最近のエントリーが見つかりました。
 
 #: index.php:179 prefs.php:139
 #, fuzzy
-#| msgid "New version of Tiny Tiny RSS is available!"
-msgid "Updates for Tiny Tiny RSS are available."
-msgstr "Tiny Tiny RSS の新しいバージョンが利用できます!"
+#| msgid "New version of F309 is available!"
+msgid "Updates for F309 are available."
+msgstr "F309 の新しいバージョンが利用できます!"
 
 #: index.php:183 prefs.php:142
 msgid "Updates for some local plugins are available."
@@ -1350,8 +1350,8 @@ msgstr "パスワードの復旧"
 #: classes/Handler_Public.php:734 classes/Handler_Public.php:757
 #: plugins/bookmarklets/init.php:97 plugins/bookmarklets/init.php:142
 #: plugins/bookmarklets/init.php:156 plugins/bookmarklets/init.php:161
-msgid "Return to Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS に戻る"
+msgid "Return to F309"
+msgstr "F309 に戻る"
 
 #: classes/Handler_Public.php:521
 msgid ""
@@ -1420,10 +1420,10 @@ msgstr "更新"
 #: classes/Handler_Public.php:742
 #, fuzzy, php-format
 #| msgid ""
-#| "Tiny Tiny RSS database needs update to the latest version (%d to %d)."
+#| "F309 database needs update to the latest version (%d to %d)."
 msgid "Database schema needs update to the latest version (%d to %d)."
 msgstr ""
-"Tiny Tiny RSS データベースを最新のバージョンに更新必要があります（%dから%d"
+"F309 データベースを最新のバージョンに更新必要があります（%dから%d"
 "に）。"
 
 #: classes/Pref_Feeds.php:66 classes/Pref_Feeds.php:226
@@ -2091,8 +2091,8 @@ msgid "Edit subscription options"
 msgstr "購読オプションの編集"
 
 #: plugins/bookmarklets/init.php:186 plugins/bookmarklets/init.php:366
-msgid "Share with Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS で共有する"
+msgid "Share with F309"
+msgstr "F309 で共有する"
 
 #: plugins/bookmarklets/init.php:262
 msgid "Title:"
@@ -2124,8 +2124,8 @@ msgstr "ログイン"
 
 #: plugins/bookmarklets/init.php:348
 #, php-format
-msgid "Subscribe to %s in Tiny Tiny RSS?"
-msgstr "%s を Tiny Tiny RSS で購読しますか?"
+msgid "Subscribe to %s in F309?"
+msgstr "%s を F309 で購読しますか?"
 
 #: plugins/bookmarklets/init.php:355
 msgid "Bookmarklets"
@@ -2140,13 +2140,13 @@ msgstr ""
 "ンクをクリックすると購読できます。"
 
 #: plugins/bookmarklets/init.php:360
-msgid "Subscribe in Tiny Tiny RSS"
-msgstr "Tiny Tiny RSS で購読する"
+msgid "Subscribe in F309"
+msgstr "F309 で購読する"
 
 #: plugins/bookmarklets/init.php:363
-msgid "Use this bookmarklet to publish arbitrary pages using Tiny Tiny RSS"
+msgid "Use this bookmarklet to publish arbitrary pages using F309"
 msgstr ""
-"Tiny Tiny RSS を使って任意のページを公開するためにこのブックマークレットを"
+"F309 を使って任意のページを公開するためにこのブックマークレットを"
 "使ってください"
 
 #: include/login_form.php:150
@@ -3326,7 +3326,7 @@ msgstr ""
 
 #: js/CommonDialogs.js:15
 msgid ""
-"Tiny Tiny RSS is running in safe mode. All themes and plugins are disabled. "
+"F309 is running in safe mode. All themes and plugins are disabled. "
 "You will need to log out and back in to disable it."
 msgstr ""
 
@@ -3502,7 +3502,7 @@ msgstr "アイコン"
 #~ "Using OPML you can export and import your feeds, filters, labels and Tiny "
 #~ "Tiny RSS settings."
 #~ msgstr ""
-#~ "OPML を使うことで、フィード、フィルター、ラベル、Tiny Tiny RSS の設定をエ"
+#~ "OPML を使うことで、フィード、フィルター、ラベル、F309 の設定をエ"
 #~ "クスポート、インポートできます。"
 
 #~ msgid ""
@@ -3513,10 +3513,10 @@ msgstr "アイコン"
 #~ "できます。"
 
 #~ msgid ""
-#~ "Published OPML does not include your Tiny Tiny RSS settings, feeds that "
+#~ "Published OPML does not include your F309 settings, feeds that "
 #~ "require authentication or feeds hidden from Popular feeds."
 #~ msgstr ""
-#~ "公開 OPML は Tiny Tiny RSS の設定、認証の必要なフィード、人気のあるフィー"
+#~ "公開 OPML は F309 の設定、認証の必要なフィード、人気のあるフィー"
 #~ "ドから隠されたフィードは含みません。"
 
 #, fuzzy
@@ -3807,8 +3807,8 @@ msgstr "アイコン"
 #~ msgid "New user registrations are currently closed."
 #~ msgstr "新規ユーザーの登録は現在行っていません。"
 
-#~ msgid "Tiny Tiny RSS data update script."
-#~ msgstr "Tiny Tiny RSS データ更新スクリプト。"
+#~ msgid "F309 data update script."
+#~ msgstr "F309 データ更新スクリプト。"
 
 #, fuzzy
 #~ msgid "Safe mode (no plugins)"
@@ -4037,9 +4037,9 @@ msgstr "アイコン"
 #~ msgid "Automatically opens next unread feed after marking one as read"
 #~ msgstr "フィードを既読にした後で自動的に未読記事のある次のフィードを開く"
 
-#~ msgid "Other interface tips are available in the Tiny Tiny RSS wiki."
+#~ msgid "Other interface tips are available in the F309 wiki."
 #~ msgstr ""
-#~ "インタフェースに関する他のヒントが Tiny Tiny RSS の Wiki にあります。"
+#~ "インタフェースに関する他のヒントが F309 の Wiki にあります。"
 
 #~ msgid "Help topic not found."
 #~ msgstr "ヘルプのトピックが見つかりません。"
@@ -4155,9 +4155,9 @@ msgstr "アイコン"
 #~ msgstr "(ノートの編集)"
 
 #~ msgid ""
-#~ "You will need to reload Tiny Tiny RSS for plugin changes to take effect."
+#~ "You will need to reload F309 for plugin changes to take effect."
 #~ msgstr ""
-#~ "プラグインの変更を反映するためには Tiny Tiny RSS を再読み込みする必要があ"
+#~ "プラグインの変更を反映するためには F309 を再読み込みする必要があ"
 #~ "ります。"
 
 #~ msgid ""
@@ -4223,7 +4223,7 @@ msgstr "アイコン"
 #~ msgstr "Firefox 統合"
 
 #~ msgid ""
-#~ "This Tiny Tiny RSS site can be used as a Firefox Feed Reader by clicking "
+#~ "This F309 site can be used as a Firefox Feed Reader by clicking "
 #~ "the link below."
 #~ msgstr ""
 #~ "下のリンクをクリックすることで、Firefox のフィードリーダーとしてこの Tiny "
@@ -4326,11 +4326,11 @@ msgstr "アイコン"
 #~ msgstr "新しいキーを生成する"
 
 #~ msgid ""
-#~ "You can connect other instances of Tiny Tiny RSS to this one to share "
-#~ "Popular feeds. Link to this instance of Tiny Tiny RSS by using this URL:"
+#~ "You can connect other instances of F309 to this one to share "
+#~ "Popular feeds. Link to this instance of F309 by using this URL:"
 #~ msgstr ""
-#~ "人気のあるフィードを共有するために Tiny Tiny RSS の別インスタンスとリンク"
-#~ "することができます。Tiny Tiny RSS のこのインスタンスとリンクするにはこの "
+#~ "人気のあるフィードを共有するために F309 の別インスタンスとリンク"
+#~ "することができます。F309 のこのインスタンスとリンクするにはこの "
 #~ "URL を使用して ください:"
 
 #~ msgid "Status"
@@ -4343,10 +4343,10 @@ msgstr "アイコン"
 #~ msgstr "リンクの作成"
 
 #~ msgid ""
-#~ "Reset subscription? Tiny Tiny RSS will try to subscribe to the "
+#~ "Reset subscription? F309 will try to subscribe to the "
 #~ "notification hub again on next feed update."
 #~ msgstr ""
-#~ "購読をリセットしますか?次回フィード更新時に Tiny Tiny RSS は通知ハブに対し"
+#~ "購読をリセットしますか?次回フィード更新時に F309 は通知ハブに対し"
 #~ "て再購読を試みます。"
 
 #~ msgid "Subscription reset."
@@ -4492,8 +4492,8 @@ msgstr "アイコン"
 #~ msgid "Assign articles to labels automatically"
 #~ msgstr "自動的に記事にラベルを割り当てる"
 
-#~ msgid "New version of Tiny Tiny RSS is available (%s)."
-#~ msgstr "Tiny Tiny RSS の新しいバージョン(%s)が利用できます。"
+#~ msgid "New version of F309 is available (%s)."
+#~ msgstr "F309 の新しいバージョン(%s)が利用できます。"
 
 #~ msgid ""
 #~ "You can update using built-in updater in the Preferences or by using "
@@ -4509,11 +4509,11 @@ msgstr "アイコン"
 #~ msgid "Error receiving version information or no new version available."
 #~ msgstr "バージョン情報の取得エラーか、新しいバージョンがありません。"
 
-#~ msgid "Update Tiny Tiny RSS"
-#~ msgstr "Tiny Tiny RSS を更新する"
+#~ msgid "Update F309"
+#~ msgstr "F309 を更新する"
 
-#~ msgid "Your Tiny Tiny RSS installation is up to date."
-#~ msgstr "Tiny Tiny RSS は最新です。"
+#~ msgid "Your F309 installation is up to date."
+#~ msgstr "F309 は最新です。"
 
 #, fuzzy
 #~ msgid "Force update"
