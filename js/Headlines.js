@@ -629,7 +629,7 @@ const Headlines = {
 		if (document.getElementById("feed_current_unread")) {
 			const feed_unread = Feeds.getUnread(Feeds.getActive(), Feeds.activeIsCat());
 			
-			if (feed_unread > 0 && !Element.hide("feeds-holder")) {
+			if (feed_unread > 0 && Element.visible("feeds-holder")) {
 				document.getElementById("feed_current_unread").innerText = feed_unread;
 				Element.show("feed_current_unread");
 			}
