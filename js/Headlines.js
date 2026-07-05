@@ -566,7 +566,7 @@ const Headlines = {
 									<i class="material-icons">label_outline</i>
 									${Article.renderTags(hl.id, hl.tags)}
 									<a title="${__("Edit tags for this article")}" href="#"
-										onclick="Article.editTags(${hl.id})">(+)</a>
+										onclick="Article.editTags(${hl.id})"></a>
 									${comments}
 								</div>
 
@@ -838,9 +838,9 @@ const Headlines = {
 
 				this.initHeadlinesMenu();
 
-				if (Feeds.infscroll_disabled)
-					hsp.innerHTML = "<a href='#' onclick='Feeds.openNextUnread()'>" +
-						__("Click to open next unread feed.") + "</a>";
+				if (Feeds.infscroll_disabled)					
+					hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
+						__("Open next unread") + "</a>";
 
 				/*
 				if (Feeds._search_query) {
@@ -890,9 +890,9 @@ const Headlines = {
 
 				this.initHeadlinesMenu();
 
-				if (Feeds.infscroll_disabled) {
-					hsp.innerHTML = "<a href='#' onclick='Feeds.openNextUnread()'>" +
-						__("Click to open next unread feed.") + "</a>";
+				if (Feeds.infscroll_disabled)					
+					hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
+						__("Open next unread") + "</a>";
 				}
 
 			} else {
@@ -904,10 +904,10 @@ const Headlines = {
 				if (hsp) {
 					if (first_id_changed) {
 						hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
-							__("New articles found, reload feed to continue.") + "</a>";
+							__("Open next new") + "</a>";
 					} else {
-						hsp.innerHTML = "<a href='#' onclick='Feeds.openNextUnread()'>" +
-							__("Click to open next unread feed.") + "</a>";
+						hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
+							__("Open next new") + "</a>";
 					}
 				}
 			}
