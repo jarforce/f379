@@ -633,7 +633,7 @@ const Headlines = {
 				document.getElementById("feed_current_unread").innerText = feed_unread;
 				Element.show("feed_current_unread");
 			} else {
-				Element.hide("feed_current_unread");
+				Element.show("feed_current_unread");
 			}
 		}
 	},
