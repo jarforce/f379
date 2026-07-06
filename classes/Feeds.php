@@ -396,7 +396,7 @@ class Feeds extends Handler_Protected {
 
 					$last_updated = TimeHelper::make_local_datetime($row['last_updated']);
 
-					$reply['content'] .= sprintf(__("Feeds last updated at %s"), $last_updated);
+					$reply['content'] .= sprintf(__("Updated at %s"), $last_updated);
 
 					$num_errors = ORM::for_table('ttrss_feeds')
 						->where_not_equal('last_error', '')
@@ -406,7 +406,7 @@ class Feeds extends Handler_Protected {
 
 					if ($num_errors > 0) {
 						$reply['content'] .= '<br/><a class="text-muted" href="#" onclick="CommonDialogs.showFeedsWithErrors(); return false">'
-							. __('List update errors') . '</a>';
+							. __('errors') . '</a>';
 					}
 					$reply['content'] .= '<br/><br/><a class="text-muted" href="#" onclick="window.location.reload()">'
 							. __('Refresh your browser') . '</a>';
