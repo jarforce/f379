@@ -374,12 +374,12 @@ class Feeds extends Handler_Protected {
 					$message = $query_error_override;
 				} else {
 					$message = match ($view_mode) {
-						'unread' => __('No unread articles found to display.'),
-						'updated' => __('No updated articles found to display.'),
-						'marked' => __('No starred articles found to display.'),
+						'unread' => __('No unread articles found to display'),
+						'updated' => __('No updated articles found to display'),
+						'marked' => __('No starred articles found to display'),
 						default => $feed < LABEL_BASE_INDEX ?
-							__('No articles found to display. You can assign articles to labels manually from article header context menu (applies to all selected articles) or use a filter.')
-							: __('No articles found to display.'),
+							__('No articles found to display. You can assign articles to labels manually from article header context menu (applies to all selected articles) or use a filter')
+							: __('No articles found to display'),
 					};
 				}
 
@@ -406,10 +406,10 @@ class Feeds extends Handler_Protected {
 
 					if ($num_errors > 0) {
 						$reply['content'] .= '<br/><a class="text-muted" href="#" onclick="CommonDialogs.showFeedsWithErrors(); return false">'
-							. __('...') . '</a>';
+							. __('..') . '</a>';
 					}
 					$reply['content'] .= '<br/><br/><a class="text-muted" href="#" onclick="window.location.reload()">'
-							. __('Refresh your browser') . '</a>';
+							. __('Refresh browser') . '</a>';
 					$reply['content'] .= '</span></p></div>';
 
 				}
