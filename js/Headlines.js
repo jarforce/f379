@@ -845,7 +845,7 @@ const Headlines = {
 
 				if (Feeds.infscroll_disabled)
 					hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
-						__("Open next unread") + "</a>";
+						__("Load more") + "</a>";
 
 				/*
 				if (Feeds._search_query) {
@@ -897,7 +897,7 @@ const Headlines = {
 
 				if (Feeds.infscroll_disabled) {
 					hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
-						__("Open next unread") + "</a>";
+						__("Load more") + "</a>";
 				}
 
 			} else {
@@ -909,10 +909,10 @@ const Headlines = {
 				if (hsp) {
 					if (first_id_changed) {
 						hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
-							__("Open next unread") + "</a>";
+							__("Load more") + "</a>";
 					} else {
 						hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
-							__("Open next unread") + "</a>";
+							__("Load more") + "</a>";
 					}
 				}
 			}
