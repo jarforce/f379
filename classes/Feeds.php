@@ -396,7 +396,7 @@ class Feeds extends Handler_Protected {
 
 					$last_updated = TimeHelper::make_local_datetime($row['last_updated']);
 
-					$reply['content'] .= sprintf(__("Updated at %s"), $last_updated);
+					$reply['content'] .= sprintf(__("at %s"), $last_updated);
 
 					$num_errors = ORM::for_table('ttrss_feeds')
 						->where_not_equal('last_error', '')
