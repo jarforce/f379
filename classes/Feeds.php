@@ -409,7 +409,7 @@ class Feeds extends Handler_Protected {
 							. __('..') . '</a>';
 					}
 					$reply['content'] .= '<br/><br/><a class="text-muted" href="#" onclick="window.location.reload()">'
-							. __('Reload F309') . '</a>';
+							. __('Reload f309') . '</a>';
 					$reply['content'] .= '</span></p></div>';
 
 				}
