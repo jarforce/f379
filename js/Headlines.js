@@ -845,7 +845,7 @@ const Headlines = {
 
 				if (Feeds.infscroll_disabled)
 					hsp.innerHTML = "<a href='#' onclick='Feeds.reloadCurrent()'>" +
-						__("More news") + "</a>";
+						__("More") + "</a>";
 
 				/*
 				if (Feeds._search_query) {
