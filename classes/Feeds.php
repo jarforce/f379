@@ -1150,17 +1150,17 @@ class Feeds extends Handler_Protected {
 		if ($cat) {
 			return self::_get_cat_title($id, $owner_uid);
 		} else if ($id == Feeds::FEED_STARRED) {
-			return __("Starred articles");
+			return __("Starred");
 		} else if ($id == Feeds::FEED_PUBLISHED) {
-			return __("Published articles");
+			return __("Published");
 		} else if ($id == Feeds::FEED_FRESH) {
-			return __("Fresh articles");
+			return __("Fresh");
 		} else if ($id == Feeds::FEED_ALL) {
 			return __("All articles");
 		} else if ($id === Feeds::FEED_ARCHIVED) {
-			return __("Archived articles");
+			return __("Archived");
 		} else if ($id == Feeds::FEED_RECENTLY_READ) {
-			return __("Recently read");
+			return __("Recently");
 		} else if ($id < LABEL_BASE_INDEX) {
 
 			$label_id = Labels::feed_to_label_id($id);
